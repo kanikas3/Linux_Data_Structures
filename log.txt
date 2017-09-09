@@ -1,0 +1,2374 @@
+[ 3414.642075] element 93 is not present
+[ 3414.642075] element 94 is not present
+[ 3414.642076] element 95 is not present
+[ 3414.642077] element 96 is not present
+[ 3414.642077] element 97 is not present
+[ 3414.642078] element 98 is not present
+[ 3414.642079] element 99 is not present
+[ 3414.642079] search and delete of tree complete value returned is 0
+[ 3414.642080] The tree has key=-112
+[ 3414.642081] The tree has key=-110
+[ 3414.642082] The tree has key=-89
+[ 3414.642082] The tree has key=-79
+[ 3414.642083] The tree has key=-76
+[ 3414.642084] The tree has key=-68
+[ 3414.642085] The tree has key=-51
+[ 3414.642085] The tree has key=1
+[ 3414.642086] The tree has key=26
+[ 3414.642087] The tree has key=50
+[ 3414.642087] print once more the tree complete value returned is 0
+[ 3414.642089] RB Tree is destoyed and value returned is 0
+[ 3414.642101] id is alloc and value returned is 0
+[ 3414.642102] id: 1 has the value:54 
+[ 3414.642103] id: 2 has the value:40 
+[ 3414.642104] id: 3 has the value:29 
+[ 3414.642105] id: 4 has the value:76 
+[ 3414.642105] id: 5 has the value:72 
+[ 3414.642106] id: 6 has the value:125 
+[ 3414.642107] id: 7 has the value:-62 
+[ 3414.642108] id: 8 has the value:-102 
+[ 3414.642108] id: 9 has the value:-37 
+[ 3414.642109] id: 10 has the value:-93 
+[ 3414.642112] map is printed and value returned is 0
+[ 3414.642116] map is deletd and value returned is 0
+[ 3414.642117] The value returned for common func is 0 
+[ 3414.642118] The value returned from dedicated func is 0, 0 and 0 
+[ 3422.140679] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3426.132113] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3437.742559] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3441.250973] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3461.080080] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3464.926048] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3488.146877] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3490.855053] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3524.113809] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3527.142369] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3530.104455] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3532.919615] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3543.542199] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3569.503070] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3575.375283] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3580.253645] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3596.534361] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3605.464899] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3637.816595] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3669.735972] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3672.841542] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3715.402404] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3726.882276] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3730.149309] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3734.437398] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3744.365432] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3753.987101] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3764.361950] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3767.419914] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3773.769843] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3778.017476] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3781.138439] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3785.400406] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3795.391430] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3804.647025] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3808.753823] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3812.471287] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3819.517455] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3822.689959] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3839.178897] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3846.322022] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3849.621490] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3852.528534] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3866.809638] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3872.378628] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3875.650840] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3879.190092] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3899.632845] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3902.519107] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3912.091959] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3915.162480] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3949.486440] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3953.396156] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3956.056189] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3969.884663] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3978.004905] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3981.779392] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3993.505062] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 3996.536908] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4013.821658] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4019.403435] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4047.846516] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4051.211509] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4055.379210] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4058.843061] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4062.072747] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4070.986151] The value entered in linked list is 735047757 
+[ 4070.986153] The value entered in linked list is -1952849262 
+[ 4070.986154] The value entered in linked list is -905114569 
+[ 4070.986155] The value entered in linked list is 137074979 
+[ 4070.986156] The value entered in linked list is -1665441402 
+[ 4070.986156] The value entered in linked list is 1334575309 
+[ 4070.986157] The value entered in linked list is 1148260216 
+[ 4070.986158] The value entered in linked list is 2016519458 
+[ 4070.986159] The value entered in linked list is 2026627096 
+[ 4070.986160] The value entered in linked list is 1483136041 
+[ 4070.986161] 
+[ 4070.986161]  1 
+[ 4070.986162] perfomed functions of linked list with common function successfully with return value 0
+[ 4070.986173] The value inserted in dedicated linked list is 1042482278 
+[ 4070.986174] The value inserted in dedicated linked list is 1741501467 
+[ 4070.986175] The value inserted in dedicated linked list is 1620151848 
+[ 4070.986176] The value inserted in dedicated linked list is -1075497940 
+[ 4070.986177] The value inserted in dedicated linked list is 1019748062 
+[ 4070.986178] The value inserted in dedicated linked list is -1268991454 
+[ 4070.986178] The value inserted in dedicated linked list is 1081225862 
+[ 4070.986179] The value inserted in dedicated linked list is -904459940 
+[ 4070.986180] The value inserted in dedicated linked list is 1523081235 
+[ 4070.986181] The value inserted in dedicated linked list is 256028609 
+[ 4070.986182] 
+[ 4070.986182]  1 
+[ 4070.986183] The linked list operation of create, print and delete are exclusively and successfully performed with value returned as 0, 0 and 0
+[ 4070.986185] fifo test has started
+[ 4070.986185] fifo initialized
+[ 4070.986187] enqueued the value of 103
+[ 4070.986189] enqueued the value of 84
+[ 4070.986191] enqueued the value of -52
+[ 4070.986192] enqueued the value of -43
+[ 4070.986194] enqueued the value of 23
+[ 4070.986196] enqueued the value of 85
+[ 4070.986198] enqueued the value of -94
+[ 4070.986199] enqueued the value of -62
+[ 4070.986201] enqueued the value of 33
+[ 4070.986203] enqueued the value of -6
+[ 4070.986204] the value is 1 dequed
+[ 4070.986204] the value is 1 dequed
+[ 4070.986205] the value is 1 dequed
+[ 4070.986206] the value is 1 dequed
+[ 4070.986206] the value is 1 dequed
+[ 4070.986207] the value is 1 dequed
+[ 4070.986208] the value is 1 dequed
+[ 4070.986208] the value is 1 dequed
+[ 4070.986209] the value is 1 dequed
+[ 4070.986210] the value is 1 dequed
+[ 4070.986210] dequeue over
+[ 4070.986211] Queue operations performed successfully with return value of 0
+[ 4070.986223] insertion in tree complete value returned 0
+[ 4070.986224] The tree has key=-40
+[ 4070.986225] The tree has key=34
+[ 4070.986225] The tree has key=66
+[ 4070.986226] The tree has key=67
+[ 4070.986227] The tree has key=84
+[ 4070.986228] The tree has key=107
+[ 4070.986228] The tree has key=110
+[ 4070.986229] The tree has key=115
+[ 4070.986230] The tree has key=126
+[ 4070.986231] printing of tree complete value returned 0
+[ 4070.986231] element 0 is not present
+[ 4070.986232] element 1 is not present
+[ 4070.986233] element 2 is not present
+[ 4070.986233] element 3 is not present
+[ 4070.986234] element 4 is not present
+[ 4070.986235] element 5 is not present
+[ 4070.986236] element 6 is not present
+[ 4070.986236] element 7 is not present
+[ 4070.986237] element 8 is not present
+[ 4070.986238] element 9 is not present
+[ 4070.986238] element 10 is not present
+[ 4070.986239] element 11 is not present
+[ 4070.986240] element 12 is not present
+[ 4070.986240] element 13 is not present
+[ 4070.986241] element 14 is not present
+[ 4070.986242] element 15 is not present
+[ 4070.986242] element 16 is not present
+[ 4070.986243] element 17 is not present
+[ 4070.986244] element 18 is not present
+[ 4070.986245] element 19 is not present
+[ 4070.986245] element 20 is not present
+[ 4070.986246] element 21 is not present
+[ 4070.986247] element 22 is not present
+[ 4070.986247] element 23 is not present
+[ 4070.986248] element 24 is not present
+[ 4070.986249] element 25 is not present
+[ 4070.986249] element 26 is not present
+[ 4070.986250] element 27 is not present
+[ 4070.986251] element 28 is not present
+[ 4070.986251] element 29 is not present
+[ 4070.986252] element 30 is not present
+[ 4070.986253] element 31 is not present
+[ 4070.986253] element 32 is not present
+[ 4070.986254] element 33 is not present
+[ 4070.986255] element 34 is not present
+[ 4070.986255] element 35 is not present
+[ 4070.986256] element 36 is not present
+[ 4070.986257] element 37 is not present
+[ 4070.986257] element 38 is not present
+[ 4070.986258] element 39 is not present
+[ 4070.986259] element 40 is not present
+[ 4070.986259] element 41 is not present
+[ 4070.986260] element 42 is not present
+[ 4070.986261] element 43 is not present
+[ 4070.986261] element 44 is not present
+[ 4070.986262] element 45 is not present
+[ 4070.986263] element 46 is not present
+[ 4070.986264] element 47 is not present
+[ 4070.986264] element 48 is not present
+[ 4070.986265] element 49 is not present
+[ 4070.986266] element 50 is not present
+[ 4070.986266] element 51 is not present
+[ 4070.986267] element 52 is not present
+[ 4070.986268] element 53 is not present
+[ 4070.986268] element 54 is not present
+[ 4070.986269] element 55 is not present
+[ 4070.986270] element 56 is not present
+[ 4070.986270] element 57 is not present
+[ 4070.986271] element 58 is not present
+[ 4070.986272] element 59 is not present
+[ 4070.986272] element 60 is not present
+[ 4070.986273] element 61 is not present
+[ 4070.986274] element 62 is not present
+[ 4070.986275] element 63 is not present
+[ 4070.986275] element 64 is not present
+[ 4070.986276] element 65 is not present
+[ 4070.986277] element 66 is not present
+[ 4070.986277] element 67 is not present
+[ 4070.986278] element 68 is not present
+[ 4070.986279] element 69 is not present
+[ 4070.986279] element 70 is not present
+[ 4070.986280] element 71 is not present
+[ 4070.986281] element 72 is not present
+[ 4070.986281] element 73 is not present
+[ 4070.986282] element 74 is not present
+[ 4070.986283] element 75 is not present
+[ 4070.986283] element 76 is not present
+[ 4070.986284] element 77 is not present
+[ 4070.986285] element 78 is not present
+[ 4070.986285] element 79 is not present
+[ 4070.986286] element 80 is not present
+[ 4070.986287] element 81 is not present
+[ 4070.986287] element 82 is not present
+[ 4070.986288] element 83 is not present
+[ 4070.986289] element 84 is present and shall now be deleted
+[ 4070.986290] element 85 is not present
+[ 4070.986291] element 86 is not present
+[ 4070.986291] element 87 is not present
+[ 4070.986292] element 88 is not present
+[ 4070.986293] element 89 is not present
+[ 4070.986293] element 90 is not present
+[ 4070.986294] element 91 is not present
+[ 4070.986295] element 92 is not present
+[ 4070.986295] element 93 is not present
+[ 4070.986296] element 94 is not present
+[ 4070.986297] element 95 is not present
+[ 4070.986297] element 96 is not present
+[ 4070.986298] element 97 is not present
+[ 4070.986299] element 98 is not present
+[ 4070.986299] element 99 is not present
+[ 4070.986300] search and delete of tree complete value returned is 0
+[ 4070.986301] The tree has key=-40
+[ 4070.986302] The tree has key=34
+[ 4070.986302] The tree has key=66
+[ 4070.986303] The tree has key=67
+[ 4070.986304] The tree has key=107
+[ 4070.986305] The tree has key=110
+[ 4070.986305] The tree has key=115
+[ 4070.986306] The tree has key=126
+[ 4070.986307] print once more the tree complete value returned is 0
+[ 4070.986308] RB Tree is destoyed and value returned is 0
+[ 4070.986321] id is alloc and value returned is 0
+[ 4070.986322] id: 1 has the value:-5 
+[ 4070.986322] id: 2 has the value:-20 
+[ 4070.986323] id: 3 has the value:-116 
+[ 4070.986324] id: 4 has the value:-9 
+[ 4070.986325] id: 5 has the value:72 
+[ 4070.986326] id: 6 has the value:-102 
+[ 4070.986326] id: 7 has the value:-121 
+[ 4070.986327] id: 8 has the value:-105 
+[ 4070.986328] id: 9 has the value:-78 
+[ 4070.986329] id: 10 has the value:-38 
+[ 4070.986331] map is printed and value returned is 0
+[ 4070.986335] map is deletd and value returned is 0
+[ 4070.986335] The value returned for common func is 0 
+[ 4070.986336] The value returned from dedicated func is 0, 0 and 0 
+[ 4075.625085] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4089.886289] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4095.409279] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4110.998395] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4144.275116] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4157.188822] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4160.641220] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4186.339704] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4196.973338] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4223.374720] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4232.862321] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4235.952978] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4249.071102] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4295.559199] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4310.073379] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4314.481295] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4318.367386] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4321.989760] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4331.131207] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4344.187927] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4344.837852] The value entered in linked list is 474720937 
+[ 4344.837854] The value entered in linked list is -1524556281 
+[ 4344.837855] The value entered in linked list is 200673766 
+[ 4344.837856] The value entered in linked list is -1888559921 
+[ 4344.837857] The value entered in linked list is 534822079 
+[ 4344.837858] The value entered in linked list is -1919867647 
+[ 4344.837859] The value entered in linked list is 1053971757 
+[ 4344.837860] The value entered in linked list is -1308596845 
+[ 4344.837860] The value entered in linked list is -1247581950 
+[ 4344.837861] The value entered in linked list is 933614425 
+[ 4344.837862] 
+[ 4344.837862]  1 
+[ 4344.837864] perfomed functions of linked list with common function successfully with return value 0
+[ 4344.837876] The value inserted in dedicated linked list is 904324438 
+[ 4344.837876] The value inserted in dedicated linked list is 919812568 
+[ 4344.837877] The value inserted in dedicated linked list is 1406296717 
+[ 4344.837878] The value inserted in dedicated linked list is 2067272956 
+[ 4344.837879] The value inserted in dedicated linked list is 215378872 
+[ 4344.837880] The value inserted in dedicated linked list is -1020373107 
+[ 4344.837881] The value inserted in dedicated linked list is -651404714 
+[ 4344.837881] The value inserted in dedicated linked list is -910564530 
+[ 4344.837882] The value inserted in dedicated linked list is 847342224 
+[ 4344.837883] The value inserted in dedicated linked list is -950153118 
+[ 4344.837884] 
+[ 4344.837884]  1 
+[ 4344.837886] The linked list operation of create, print and delete are exclusively and successfully performed with value returned as 0, 0 and 0
+[ 4344.837887] fifo test has started
+[ 4344.837888] fifo initialized
+[ 4344.837890] enqueued the value of 769561728
+[ 4344.837892] enqueued the value of 769562912
+[ 4344.837894] enqueued the value of 769563520
+[ 4344.837895] enqueued the value of 769560736
+[ 4344.837897] enqueued the value of 769562688
+[ 4344.837899] enqueued the value of 769563488
+[ 4344.837901] enqueued the value of 769561024
+[ 4344.837903] enqueued the value of 769560800
+[ 4344.837905] enqueued the value of 769563040
+[ 4344.837907] enqueued the value of 769564576
+[ 4344.837907] the value is 1 dequed
+[ 4344.837908] the value is 1 dequed
+[ 4344.837909] the value is 1 dequed
+[ 4344.837910] the value is 1 dequed
+[ 4344.837910] the value is 1 dequed
+[ 4344.837911] the value is 1 dequed
+[ 4344.837912] the value is 1 dequed
+[ 4344.837912] the value is 1 dequed
+[ 4344.837913] the value is 1 dequed
+[ 4344.837914] the value is 1 dequed
+[ 4344.837914] dequeue over
+[ 4344.837915] Queue operations performed successfully with return value of 0
+[ 4344.837928] insertion in tree complete value returned 0
+[ 4344.837929] The tree has key=-93
+[ 4344.837930] The tree has key=-88
+[ 4344.837931] The tree has key=-85
+[ 4344.837932] The tree has key=-22
+[ 4344.837932] The tree has key=-11
+[ 4344.837933] The tree has key=59
+[ 4344.837934] The tree has key=65
+[ 4344.837934] The tree has key=71
+[ 4344.837935] The tree has key=76
+[ 4344.837936] The tree has key=100
+[ 4344.837937] printing of tree complete value returned 0
+[ 4344.837938] element 0 is not present
+[ 4344.837939] element 1 is not present
+[ 4344.837940] element 2 is not present
+[ 4344.837940] element 3 is not present
+[ 4344.837941] element 4 is not present
+[ 4344.837942] element 5 is not present
+[ 4344.837943] element 6 is not present
+[ 4344.837943] element 7 is not present
+[ 4344.837944] element 8 is not present
+[ 4344.837945] element 9 is not present
+[ 4344.837946] element 10 is not present
+[ 4344.837946] element 11 is not present
+[ 4344.837947] element 12 is not present
+[ 4344.837948] element 13 is not present
+[ 4344.837949] element 14 is not present
+[ 4344.837949] element 15 is not present
+[ 4344.837950] element 16 is not present
+[ 4344.837951] element 17 is not present
+[ 4344.837951] element 18 is not present
+[ 4344.837952] element 19 is not present
+[ 4344.837953] element 20 is not present
+[ 4344.837954] element 21 is not present
+[ 4344.837954] element 22 is not present
+[ 4344.837955] element 23 is not present
+[ 4344.837956] element 24 is not present
+[ 4344.837956] element 25 is not present
+[ 4344.837957] element 26 is not present
+[ 4344.837958] element 27 is not present
+[ 4344.837958] element 28 is not present
+[ 4344.837959] element 29 is not present
+[ 4344.837960] element 30 is not present
+[ 4344.837961] element 31 is not present
+[ 4344.837962] element 32 is not present
+[ 4344.837962] element 33 is not present
+[ 4344.837963] element 34 is not present
+[ 4344.837964] element 35 is not present
+[ 4344.837965] element 36 is not present
+[ 4344.837965] element 37 is not present
+[ 4344.837966] element 38 is not present
+[ 4344.837967] element 39 is not present
+[ 4344.837968] element 40 is not present
+[ 4344.837968] element 41 is not present
+[ 4344.837969] element 42 is not present
+[ 4344.837970] element 43 is not present
+[ 4344.837971] element 44 is not present
+[ 4344.837972] element 45 is not present
+[ 4344.837972] element 46 is not present
+[ 4344.837973] element 47 is not present
+[ 4344.837974] element 48 is not present
+[ 4344.837974] element 49 is not present
+[ 4344.837975] element 50 is not present
+[ 4344.837976] element 51 is not present
+[ 4344.837976] element 52 is not present
+[ 4344.837977] element 53 is not present
+[ 4344.837978] element 54 is not present
+[ 4344.837979] element 55 is not present
+[ 4344.837979] element 56 is not present
+[ 4344.837980] element 57 is not present
+[ 4344.837981] element 58 is not present
+[ 4344.837982] element 59 is present and shall now be deleted
+[ 4344.837983] element 60 is not present
+[ 4344.837984] element 61 is not present
+[ 4344.837984] element 62 is not present
+[ 4344.837985] element 63 is not present
+[ 4344.837986] element 64 is not present
+[ 4344.837987] element 65 is present and shall now be deleted
+[ 4344.837988] element 66 is not present
+[ 4344.837988] element 67 is not present
+[ 4344.837989] element 68 is not present
+[ 4344.837990] element 69 is not present
+[ 4344.837991] element 70 is not present
+[ 4344.837992] element 71 is present and shall now be deleted
+[ 4344.837992] element 72 is not present
+[ 4344.837993] element 73 is not present
+[ 4344.837994] element 74 is not present
+[ 4344.837995] element 75 is not present
+[ 4344.837995] element 76 is present and shall now be deleted
+[ 4344.837996] element 77 is not present
+[ 4344.837997] element 78 is not present
+[ 4344.837998] element 79 is not present
+[ 4344.837998] element 80 is not present
+[ 4344.837999] element 81 is not present
+[ 4344.838000] element 82 is not present
+[ 4344.838000] element 83 is not present
+[ 4344.838001] element 84 is not present
+[ 4344.838002] element 85 is not present
+[ 4344.838002] element 86 is not present
+[ 4344.838003] element 87 is not present
+[ 4344.838004] element 88 is not present
+[ 4344.838005] element 89 is not present
+[ 4344.838005] element 90 is not present
+[ 4344.838006] element 91 is not present
+[ 4344.838007] element 92 is not present
+[ 4344.838008] element 93 is not present
+[ 4344.838009] element 94 is not present
+[ 4344.838009] element 95 is not present
+[ 4344.838010] element 96 is not present
+[ 4344.838011] element 97 is not present
+[ 4344.838012] element 98 is not present
+[ 4344.838012] element 99 is not present
+[ 4344.838013] search and delete of tree complete value returned is 0
+[ 4344.838014] The tree has key=-93
+[ 4344.838015] The tree has key=-88
+[ 4344.838016] The tree has key=-85
+[ 4344.838016] The tree has key=-22
+[ 4344.838017] The tree has key=-11
+[ 4344.838018] The tree has key=100
+[ 4344.838019] print once more the tree complete value returned is 0
+[ 4344.838020] RB Tree is destoyed and value returned is 0
+[ 4344.838033] id is alloc and value returned is 0
+[ 4344.838034] id: 1 has the value:-125 
+[ 4344.838035] id: 2 has the value:-15 
+[ 4344.838036] id: 3 has the value:123 
+[ 4344.838036] id: 4 has the value:-36 
+[ 4344.838037] id: 5 has the value:63 
+[ 4344.838038] id: 6 has the value:-118 
+[ 4344.838039] id: 7 has the value:-61 
+[ 4344.838040] id: 8 has the value:29 
+[ 4344.838040] id: 9 has the value:65 
+[ 4344.838041] id: 10 has the value:69 
+[ 4344.838044] map is printed and value returned is 0
+[ 4344.838048] map is deletd and value returned is 0
+[ 4344.838048] The value returned for common func is 0 
+[ 4344.838049] The value returned from dedicated func is 0, 0 and 0 
+[ 4351.110224] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4358.492184] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4363.143592] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4384.822442] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4387.224803] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4436.688391] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4453.459752] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4483.723894] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4487.414582] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4502.304522] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4505.039139] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4535.262434] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4538.735470] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4542.729948] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4546.388243] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4549.662990] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4554.847485] The value entered in linked list is -76365045 
+[ 4554.847488] The value entered in linked list is 871654469 
+[ 4554.847489] The value entered in linked list is -1105075549 
+[ 4554.847489] The value entered in linked list is 1269794705 
+[ 4554.847490] The value entered in linked list is 588433610 
+[ 4554.847491] The value entered in linked list is -112582798 
+[ 4554.847492] The value entered in linked list is 271164264 
+[ 4554.847493] The value entered in linked list is 431340151 
+[ 4554.847493] The value entered in linked list is -1545497047 
+[ 4554.847494] The value entered in linked list is -259284143 
+[ 4554.847495] 
+[ 4554.847495]  1 
+[ 4554.847497] perfomed functions of linked list with common function successfully with return value 0
+[ 4554.847508] The value inserted in dedicated linked list is -2056745405 
+[ 4554.847509] The value inserted in dedicated linked list is 1433384406 
+[ 4554.847510] The value inserted in dedicated linked list is -499518712 
+[ 4554.847511] The value inserted in dedicated linked list is 477392392 
+[ 4554.847512] The value inserted in dedicated linked list is 1540101535 
+[ 4554.847512] The value inserted in dedicated linked list is 856616514 
+[ 4554.847513] The value inserted in dedicated linked list is 1761766962 
+[ 4554.847514] The value inserted in dedicated linked list is 1252932947 
+[ 4554.847515] The value inserted in dedicated linked list is 929179742 
+[ 4554.847516] The value inserted in dedicated linked list is 1956353323 
+[ 4554.847517] 
+[ 4554.847517]  1 
+[ 4554.847518] The linked list operation of create, print and delete are exclusively and successfully performed with value returned as 0, 0 and 0
+[ 4554.847519] fifo test has started
+[ 4554.847520] fifo initialized
+[ 4554.847522] enqueued the value of -40
+[ 4554.847523] enqueued the value of -95
+[ 4554.847525] enqueued the value of 123
+[ 4554.847527] enqueued the value of -7
+[ 4554.847529] enqueued the value of 6
+[ 4554.847531] enqueued the value of -120
+[ 4554.847533] enqueued the value of -109
+[ 4554.847534] enqueued the value of -80
+[ 4554.847536] enqueued the value of -16
+[ 4554.847538] enqueued the value of 57
+[ 4554.847539] the value is -1153003200 dequed
+[ 4554.847540] the value is -1152999520 dequed
+[ 4554.847540] the value is -1153001280 dequed
+[ 4554.847541] the value is -1152999488 dequed
+[ 4554.847542] the value is 811764000 dequed
+[ 4554.847543] the value is 811762528 dequed
+[ 4554.847543] the value is 811762176 dequed
+[ 4554.847544] the value is 811761952 dequed
+[ 4554.847545] the value is 989031104 dequed
+[ 4554.847545] the value is 989031744 dequed
+[ 4554.847546] dequeue over
+[ 4554.847547] Queue operations performed successfully with return value of 0
+[ 4554.847559] insertion in tree complete value returned 0
+[ 4554.847560] The tree has key=-104
+[ 4554.847561] The tree has key=-96
+[ 4554.847562] The tree has key=-95
+[ 4554.847562] The tree has key=-93
+[ 4554.847563] The tree has key=-57
+[ 4554.847564] The tree has key=-36
+[ 4554.847564] The tree has key=-16
+[ 4554.847565] The tree has key=-12
+[ 4554.847566] The tree has key=-6
+[ 4554.847566] The tree has key=20
+[ 4554.847567] printing of tree complete value returned 0
+[ 4554.847568] element 0 is not present
+[ 4554.847569] element 1 is not present
+[ 4554.847570] element 2 is not present
+[ 4554.847570] element 3 is not present
+[ 4554.847571] element 4 is not present
+[ 4554.847572] element 5 is not present
+[ 4554.847572] element 6 is not present
+[ 4554.847573] element 7 is not present
+[ 4554.847574] element 8 is not present
+[ 4554.847574] element 9 is not present
+[ 4554.847575] element 10 is not present
+[ 4554.847576] element 11 is not present
+[ 4554.847577] element 12 is not present
+[ 4554.847577] element 13 is not present
+[ 4554.847578] element 14 is not present
+[ 4554.847579] element 15 is not present
+[ 4554.847579] element 16 is not present
+[ 4554.847580] element 17 is not present
+[ 4554.847581] element 18 is not present
+[ 4554.847581] element 19 is not present
+[ 4554.847582] element 20 is not present
+[ 4554.847583] element 21 is not present
+[ 4554.847584] element 22 is not present
+[ 4554.847584] element 23 is not present
+[ 4554.847585] element 24 is not present
+[ 4554.847586] element 25 is not present
+[ 4554.847586] element 26 is not present
+[ 4554.847587] element 27 is not present
+[ 4554.847588] element 28 is not present
+[ 4554.847588] element 29 is not present
+[ 4554.847589] element 30 is not present
+[ 4554.847590] element 31 is not present
+[ 4554.847590] element 32 is not present
+[ 4554.847591] element 33 is not present
+[ 4554.847592] element 34 is not present
+[ 4554.847592] element 35 is not present
+[ 4554.847593] element 36 is not present
+[ 4554.847594] element 37 is not present
+[ 4554.847595] element 38 is not present
+[ 4554.847595] element 39 is not present
+[ 4554.847596] element 40 is not present
+[ 4554.847597] element 41 is not present
+[ 4554.847597] element 42 is not present
+[ 4554.847598] element 43 is not present
+[ 4554.847599] element 44 is not present
+[ 4554.847599] element 45 is not present
+[ 4554.847600] element 46 is not present
+[ 4554.847601] element 47 is not present
+[ 4554.847601] element 48 is not present
+[ 4554.847602] element 49 is not present
+[ 4554.847603] element 50 is not present
+[ 4554.847603] element 51 is not present
+[ 4554.847604] element 52 is not present
+[ 4554.847605] element 53 is not present
+[ 4554.847605] element 54 is not present
+[ 4554.847606] element 55 is not present
+[ 4554.847607] element 56 is not present
+[ 4554.847608] element 57 is not present
+[ 4554.847608] element 58 is not present
+[ 4554.847609] element 59 is not present
+[ 4554.847610] element 60 is not present
+[ 4554.847610] element 61 is not present
+[ 4554.847611] element 62 is not present
+[ 4554.847612] element 63 is not present
+[ 4554.847612] element 64 is not present
+[ 4554.847613] element 65 is not present
+[ 4554.847614] element 66 is not present
+[ 4554.847614] element 67 is not present
+[ 4554.847615] element 68 is not present
+[ 4554.847616] element 69 is not present
+[ 4554.847616] element 70 is not present
+[ 4554.847617] element 71 is not present
+[ 4554.847618] element 72 is not present
+[ 4554.847618] element 73 is not present
+[ 4554.847619] element 74 is not present
+[ 4554.847620] element 75 is not present
+[ 4554.847621] element 76 is not present
+[ 4554.847621] element 77 is not present
+[ 4554.847622] element 78 is not present
+[ 4554.847623] element 79 is not present
+[ 4554.847623] element 80 is not present
+[ 4554.847624] element 81 is not present
+[ 4554.847625] element 82 is not present
+[ 4554.847625] element 83 is not present
+[ 4554.847626] element 84 is not present
+[ 4554.847627] element 85 is not present
+[ 4554.847627] element 86 is not present
+[ 4554.847628] element 87 is not present
+[ 4554.847629] element 88 is not present
+[ 4554.847629] element 89 is not present
+[ 4554.847630] element 90 is not present
+[ 4554.847631] element 91 is not present
+[ 4554.847632] element 92 is not present
+[ 4554.847632] element 93 is not present
+[ 4554.847633] element 94 is not present
+[ 4554.847634] element 95 is not present
+[ 4554.847634] element 96 is not present
+[ 4554.847635] element 97 is not present
+[ 4554.847636] element 98 is not present
+[ 4554.847636] element 99 is not present
+[ 4554.847637] search and delete of tree complete value returned is 0
+[ 4554.847638] The tree has key=-104
+[ 4554.847639] The tree has key=-96
+[ 4554.847639] The tree has key=-95
+[ 4554.847640] The tree has key=-93
+[ 4554.847641] The tree has key=-57
+[ 4554.847641] The tree has key=-36
+[ 4554.847642] The tree has key=-16
+[ 4554.847643] The tree has key=-12
+[ 4554.847644] The tree has key=-6
+[ 4554.847644] The tree has key=20
+[ 4554.847645] print once more the tree complete value returned is 0
+[ 4554.847646] RB Tree is destoyed and value returned is 0
+[ 4554.847660] id is alloc and value returned is 0
+[ 4554.847660] id: 1 has the value:-99 
+[ 4554.847661] id: 2 has the value:21 
+[ 4554.847662] id: 3 has the value:-117 
+[ 4554.847663] id: 4 has the value:-115 
+[ 4554.847664] id: 5 has the value:31 
+[ 4554.847664] id: 6 has the value:27 
+[ 4554.847665] id: 7 has the value:78 
+[ 4554.847666] id: 8 has the value:108 
+[ 4554.847667] id: 9 has the value:-12 
+[ 4554.847667] id: 10 has the value:92 
+[ 4554.847670] map is printed and value returned is 0
+[ 4554.847673] map is deletd and value returned is 0
+[ 4554.847674] The value returned for common func is 0 
+[ 4554.847675] The value returned from dedicated func is 0, 0 and 0 
+[ 4637.725311] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4646.885754] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4663.192335] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4666.172441] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4690.773021] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4693.625468] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4696.601647] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4700.337736] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4720.851779] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4732.191877] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4774.938725] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4783.482585] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4790.057956] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4793.677906] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4810.461397] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4816.818814] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4831.021508] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4834.573415] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4852.538769] The value entered in linked list is 1532786947 
+[ 4852.538772] The value entered in linked list is -572844839 
+[ 4852.538773] The value entered in linked list is -885347670 
+[ 4852.538774] The value entered in linked list is 1916030383 
+[ 4852.538775] The value entered in linked list is -1905763850 
+[ 4852.538776] The value entered in linked list is -2051776600 
+[ 4852.538777] The value entered in linked list is -1310323229 
+[ 4852.538778] The value entered in linked list is -1665756538 
+[ 4852.538779] The value entered in linked list is 1090037233 
+[ 4852.538780] The value entered in linked list is -253694845 
+[ 4852.538781] 
+[ 4852.538781]  1 
+[ 4852.538783] perfomed functions of linked list with common function successfully with return value 0
+[ 4852.538794] The value inserted in dedicated linked list is 1750270348 
+[ 4852.538795] The value inserted in dedicated linked list is -61250832 
+[ 4852.538796] The value inserted in dedicated linked list is 335347820 
+[ 4852.538797] The value inserted in dedicated linked list is 740074311 
+[ 4852.538798] The value inserted in dedicated linked list is 1175470859 
+[ 4852.538799] The value inserted in dedicated linked list is -1238861935 
+[ 4852.538800] The value inserted in dedicated linked list is -141058 
+[ 4852.538801] The value inserted in dedicated linked list is -1930848510 
+[ 4852.538801] The value inserted in dedicated linked list is -1387731260 
+[ 4852.538802] The value inserted in dedicated linked list is -1965455258 
+[ 4852.538803] 
+[ 4852.538803]  1 
+[ 4852.538805] The linked list operation of create, print and delete are exclusively and successfully performed with value returned as 0, 0 and 0
+[ 4852.538806] fifo test has started
+[ 4852.538807] fifo initialized
+[ 4852.538809] enqueued the value of 64
+[ 4852.538811] enqueued the value of -41
+[ 4852.538813] enqueued the value of 89
+[ 4852.538815] enqueued the value of -15
+[ 4852.538817] enqueued the value of 81
+[ 4852.538819] enqueued the value of -62
+[ 4852.538820] enqueued the value of 47
+[ 4852.538822] enqueued the value of -109
+[ 4852.538824] enqueued the value of 40
+[ 4852.538826] enqueued the value of 29
+[ 4852.538827] the value is 29 dequed
+[ 4852.538828] the value sec is 867232224 dequed
+[ 4852.538829] the value is 867232224 dequed
+[ 4852.538830] the value sec is 867232672 dequed
+[ 4852.538831] the value is 867232672 dequed
+[ 4852.538831] the value sec is 867231008 dequed
+[ 4852.538832] the value is 867231008 dequed
+[ 4852.538833] the value sec is 867231904 dequed
+[ 4852.538834] the value is 867231904 dequed
+[ 4852.538835] the value sec is 867233696 dequed
+[ 4852.538836] the value is 867233696 dequed
+[ 4852.538837] the value sec is 768756576 dequed
+[ 4852.538838] the value is 768756576 dequed
+[ 4852.538839] the value sec is 768757568 dequed
+[ 4852.538839] the value is 768757568 dequed
+[ 4852.538840] the value sec is 864367456 dequed
+[ 4852.538841] the value is 864367456 dequed
+[ 4852.538842] the value sec is 864368672 dequed
+[ 4852.538843] the value is 864368672 dequed
+[ 4852.538844] the value sec is 864367488 dequed
+[ 4852.538845] dequeue over
+[ 4852.538846] Queue operations performed successfully with return value of 0
+[ 4852.538859] insertion in tree complete value returned 0
+[ 4852.538860] The tree has key=-106
+[ 4852.538861] The tree has key=-87
+[ 4852.538862] The tree has key=-79
+[ 4852.538863] The tree has key=-66
+[ 4852.538864] The tree has key=3
+[ 4852.538865] The tree has key=32
+[ 4852.538866] The tree has key=69
+[ 4852.538867] The tree has key=74
+[ 4852.538868] The tree has key=85
+[ 4852.538868] The tree has key=87
+[ 4852.538869] printing of tree complete value returned 0
+[ 4852.538870] element 0 is not present
+[ 4852.538871] element 1 is not present
+[ 4852.538872] element 2 is not present
+[ 4852.538873] element 3 is not present
+[ 4852.538874] element 4 is not present
+[ 4852.538874] element 5 is not present
+[ 4852.538875] element 6 is not present
+[ 4852.538876] element 7 is not present
+[ 4852.538877] element 8 is not present
+[ 4852.538878] element 9 is not present
+[ 4852.538879] element 10 is not present
+[ 4852.538880] element 11 is not present
+[ 4852.538880] element 12 is not present
+[ 4852.538881] element 13 is not present
+[ 4852.538882] element 14 is not present
+[ 4852.538883] element 15 is not present
+[ 4852.538884] element 16 is not present
+[ 4852.538884] element 17 is not present
+[ 4852.538885] element 18 is not present
+[ 4852.538886] element 19 is not present
+[ 4852.538887] element 20 is not present
+[ 4852.538888] element 21 is not present
+[ 4852.538889] element 22 is not present
+[ 4852.538889] element 23 is not present
+[ 4852.538890] element 24 is not present
+[ 4852.538891] element 25 is not present
+[ 4852.538892] element 26 is not present
+[ 4852.538892] element 27 is not present
+[ 4852.538893] element 28 is not present
+[ 4852.538894] element 29 is not present
+[ 4852.538895] element 30 is not present
+[ 4852.538895] element 31 is not present
+[ 4852.538896] element 32 is present and shall now be deleted
+[ 4852.538897] element 33 is not present
+[ 4852.538898] element 34 is not present
+[ 4852.538899] element 35 is not present
+[ 4852.538900] element 36 is not present
+[ 4852.538900] element 37 is not present
+[ 4852.538901] element 38 is not present
+[ 4852.538902] element 39 is not present
+[ 4852.538903] element 40 is not present
+[ 4852.538903] element 41 is not present
+[ 4852.538904] element 42 is not present
+[ 4852.538905] element 43 is not present
+[ 4852.538906] element 44 is not present
+[ 4852.538907] element 45 is not present
+[ 4852.538907] element 46 is not present
+[ 4852.538908] element 47 is not present
+[ 4852.538909] element 48 is not present
+[ 4852.538910] element 49 is not present
+[ 4852.538911] element 50 is not present
+[ 4852.538911] element 51 is not present
+[ 4852.538912] element 52 is not present
+[ 4852.538913] element 53 is not present
+[ 4852.538914] element 54 is not present
+[ 4852.538915] element 55 is not present
+[ 4852.538915] element 56 is not present
+[ 4852.538916] element 57 is not present
+[ 4852.538917] element 58 is not present
+[ 4852.538918] element 59 is not present
+[ 4852.538918] element 60 is not present
+[ 4852.538919] element 61 is not present
+[ 4852.538920] element 62 is not present
+[ 4852.538921] element 63 is not present
+[ 4852.538922] element 64 is not present
+[ 4852.538922] element 65 is not present
+[ 4852.538923] element 66 is not present
+[ 4852.538924] element 67 is not present
+[ 4852.538925] element 68 is not present
+[ 4852.538926] element 69 is present and shall now be deleted
+[ 4852.538927] element 70 is not present
+[ 4852.538928] element 71 is not present
+[ 4852.538929] element 72 is not present
+[ 4852.538929] element 73 is not present
+[ 4852.538930] element 74 is present and shall now be deleted
+[ 4852.538931] element 75 is not present
+[ 4852.538932] element 76 is not present
+[ 4852.538933] element 77 is not present
+[ 4852.538934] element 78 is not present
+[ 4852.538934] element 79 is not present
+[ 4852.538935] element 80 is not present
+[ 4852.538936] element 81 is not present
+[ 4852.538937] element 82 is not present
+[ 4852.538937] element 83 is not present
+[ 4852.538938] element 84 is not present
+[ 4852.538939] element 85 is present and shall now be deleted
+[ 4852.538940] element 86 is not present
+[ 4852.538941] element 87 is not present
+[ 4852.538942] element 88 is not present
+[ 4852.538942] element 89 is not present
+[ 4852.538943] element 90 is not present
+[ 4852.538943] element 91 is not present
+[ 4852.538944] element 92 is not present
+[ 4852.538945] element 93 is not present
+[ 4852.538945] element 94 is not present
+[ 4852.538946] element 95 is not present
+[ 4852.538946] element 96 is not present
+[ 4852.538947] element 97 is not present
+[ 4852.538948] element 98 is not present
+[ 4852.538948] element 99 is not present
+[ 4852.538949] search and delete of tree complete value returned is 0
+[ 4852.538950] The tree has key=-106
+[ 4852.538950] The tree has key=-87
+[ 4852.538951] The tree has key=-79
+[ 4852.538952] The tree has key=-66
+[ 4852.538952] The tree has key=3
+[ 4852.538953] The tree has key=87
+[ 4852.538954] print once more the tree complete value returned is 0
+[ 4852.538954] RB Tree is destoyed and value returned is 0
+[ 4852.538966] id is alloc and value returned is 0
+[ 4852.538967] id: 1 has the value:-91 
+[ 4852.538968] id: 2 has the value:10 
+[ 4852.538968] id: 3 has the value:-4 
+[ 4852.538969] id: 4 has the value:113 
+[ 4852.538970] id: 5 has the value:-4 
+[ 4852.538970] id: 6 has the value:-114 
+[ 4852.538971] id: 7 has the value:-116 
+[ 4852.538972] id: 8 has the value:94 
+[ 4852.538972] id: 9 has the value:27 
+[ 4852.538973] id: 10 has the value:81 
+[ 4852.538975] map is printed and value returned is 0
+[ 4852.538978] map is deletd and value returned is 0
+[ 4852.538979] The value returned for common func is 0 
+[ 4852.538980] The value returned from dedicated func is 0, 0 and 0 
+[ 4891.869313] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4894.750290] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4904.133081] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4907.421127] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4939.020273] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4941.844515] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4973.819468] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4979.185582] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4990.129702] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4993.223106] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4996.706873] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 4999.415046] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5003.006867] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5006.124396] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5020.924308] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5042.218005] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5048.155941] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5054.177369] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5060.377717] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5076.981160] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5080.505682] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5086.648340] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5090.766723] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5102.045309] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5111.889025] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5115.365391] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5118.484157] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5123.528323] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5126.731748] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5149.964807] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5159.867663] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5164.337564] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5167.408504] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5171.573324] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5175.675588] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5179.337410] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5183.101006] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5199.308959] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5210.063708] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5219.592870] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5233.984516] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5245.417180] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5252.880360] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5257.325545] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5263.046761] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5268.088831] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5272.606169] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5275.805368] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5313.097221] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5315.987264] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5322.047481] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5325.990132] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5333.489672] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5336.939811] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5345.925391] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5373.469123] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5380.941569] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5393.057300] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5407.027891] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5441.901564] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5444.703050] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5465.317279] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5510.274821] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5514.179822] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5539.665854] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5541.258913] The value entered in linked list is -1316970091 
+[ 5541.258915] The value entered in linked list is -1902702221 
+[ 5541.258916] The value entered in linked list is 1551623289 
+[ 5541.258917] The value entered in linked list is 684562158 
+[ 5541.258918] The value entered in linked list is 1890369972 
+[ 5541.258919] The value entered in linked list is 360752098 
+[ 5541.258920] The value entered in linked list is 1823250939 
+[ 5541.258920] The value entered in linked list is 1270756304 
+[ 5541.258921] The value entered in linked list is -1173567295 
+[ 5541.258922] The value entered in linked list is 1613705302 
+[ 5541.258923] 
+[ 5541.258923]  1 
+[ 5541.258924] perfomed functions of linked list with common function successfully with return value 0
+[ 5541.258936] The value inserted in dedicated linked list is -382296916 
+[ 5541.258937] The value inserted in dedicated linked list is -1444734047 
+[ 5541.258938] The value inserted in dedicated linked list is -757445038 
+[ 5541.258939] The value inserted in dedicated linked list is -1940504449 
+[ 5541.258939] The value inserted in dedicated linked list is 1044425231 
+[ 5541.258940] The value inserted in dedicated linked list is 61186372 
+[ 5541.258941] The value inserted in dedicated linked list is 1900465264 
+[ 5541.258942] The value inserted in dedicated linked list is 929000965 
+[ 5541.258943] The value inserted in dedicated linked list is 62960732 
+[ 5541.258944] The value inserted in dedicated linked list is 623654095 
+[ 5541.258945] 
+[ 5541.258945]  1 
+[ 5541.258946] The linked list operation of create, print and delete are exclusively and successfully performed with value returned as 0, 0 and 0
+[ 5541.258947] fifo test has started
+[ 5541.258948] fifo initialized
+[ 5541.258950] enqueued the value of 46
+[ 5541.258952] enqueued the value of -11
+[ 5541.258954] enqueued the value of 56
+[ 5541.258956] enqueued the value of -78
+[ 5541.258957] enqueued the value of 14
+[ 5541.258959] enqueued the value of 13
+[ 5541.258961] enqueued the value of -66
+[ 5541.258963] enqueued the value of -91
+[ 5541.258965] enqueued the value of -59
+[ 5541.258967] enqueued the value of 33
+[ 5541.258968] the value sec is 46 dequed
+[ 5541.258968] the value sec is -11 dequed
+[ 5541.258969] the value sec is 56 dequed
+[ 5541.258970] the value sec is -78 dequed
+[ 5541.258971] the value sec is 14 dequed
+[ 5541.258971] the value sec is 13 dequed
+[ 5541.258972] the value sec is -66 dequed
+[ 5541.258973] the value sec is -91 dequed
+[ 5541.258974] dequeue over
+[ 5541.258974] Queue operations performed successfully with return value of 0
+[ 5541.258987] insertion in tree complete value returned 0
+[ 5541.258988] The tree has key=-100
+[ 5541.258989] The tree has key=-52
+[ 5541.258989] The tree has key=-42
+[ 5541.258990] The tree has key=-21
+[ 5541.258991] The tree has key=-8
+[ 5541.258992] The tree has key=-2
+[ 5541.258992] The tree has key=21
+[ 5541.258993] The tree has key=26
+[ 5541.258994] The tree has key=102
+[ 5541.258994] The tree has key=123
+[ 5541.258995] printing of tree complete value returned 0
+[ 5541.258996] element 0 is not present
+[ 5541.258997] element 1 is not present
+[ 5541.258998] element 2 is not present
+[ 5541.258998] element 3 is not present
+[ 5541.258999] element 4 is not present
+[ 5541.259000] element 5 is not present
+[ 5541.259000] element 6 is not present
+[ 5541.259001] element 7 is not present
+[ 5541.259002] element 8 is not present
+[ 5541.259002] element 9 is not present
+[ 5541.259003] element 10 is not present
+[ 5541.259004] element 11 is not present
+[ 5541.259004] element 12 is not present
+[ 5541.259005] element 13 is not present
+[ 5541.259006] element 14 is not present
+[ 5541.259007] element 15 is not present
+[ 5541.259007] element 16 is not present
+[ 5541.259008] element 17 is not present
+[ 5541.259009] element 18 is not present
+[ 5541.259009] element 19 is not present
+[ 5541.259010] element 20 is not present
+[ 5541.259011] element 21 is not present
+[ 5541.259011] element 22 is not present
+[ 5541.259012] element 23 is not present
+[ 5541.259013] element 24 is not present
+[ 5541.259013] element 25 is not present
+[ 5541.259014] element 26 is not present
+[ 5541.259015] element 27 is not present
+[ 5541.259015] element 28 is not present
+[ 5541.259016] element 29 is not present
+[ 5541.259017] element 30 is not present
+[ 5541.259017] element 31 is not present
+[ 5541.259018] element 32 is not present
+[ 5541.259019] element 33 is not present
+[ 5541.259020] element 34 is not present
+[ 5541.259020] element 35 is not present
+[ 5541.259021] element 36 is not present
+[ 5541.259022] element 37 is not present
+[ 5541.259022] element 38 is not present
+[ 5541.259023] element 39 is not present
+[ 5541.259024] element 40 is not present
+[ 5541.259024] element 41 is not present
+[ 5541.259025] element 42 is not present
+[ 5541.259026] element 43 is not present
+[ 5541.259026] element 44 is not present
+[ 5541.259027] element 45 is not present
+[ 5541.259028] element 46 is not present
+[ 5541.259028] element 47 is not present
+[ 5541.259029] element 48 is not present
+[ 5541.259030] element 49 is not present
+[ 5541.259030] element 50 is not present
+[ 5541.259031] element 51 is not present
+[ 5541.259032] element 52 is not present
+[ 5541.259033] element 53 is not present
+[ 5541.259033] element 54 is not present
+[ 5541.259034] element 55 is not present
+[ 5541.259035] element 56 is not present
+[ 5541.259035] element 57 is not present
+[ 5541.259036] element 58 is not present
+[ 5541.259037] element 59 is not present
+[ 5541.259037] element 60 is not present
+[ 5541.259038] element 61 is not present
+[ 5541.259039] element 62 is not present
+[ 5541.259039] element 63 is not present
+[ 5541.259040] element 64 is not present
+[ 5541.259041] element 65 is not present
+[ 5541.259041] element 66 is not present
+[ 5541.259042] element 67 is not present
+[ 5541.259043] element 68 is not present
+[ 5541.259043] element 69 is not present
+[ 5541.259044] element 70 is not present
+[ 5541.259045] element 71 is not present
+[ 5541.259045] element 72 is not present
+[ 5541.259046] element 73 is not present
+[ 5541.259047] element 74 is not present
+[ 5541.259048] element 75 is not present
+[ 5541.259048] element 76 is not present
+[ 5541.259049] element 77 is not present
+[ 5541.259050] element 78 is not present
+[ 5541.259050] element 79 is not present
+[ 5541.259051] element 80 is not present
+[ 5541.259052] element 81 is not present
+[ 5541.259052] element 82 is not present
+[ 5541.259053] element 83 is not present
+[ 5541.259054] element 84 is not present
+[ 5541.259054] element 85 is not present
+[ 5541.259055] element 86 is not present
+[ 5541.259056] element 87 is not present
+[ 5541.259056] element 88 is not present
+[ 5541.259057] element 89 is not present
+[ 5541.259058] element 90 is not present
+[ 5541.259058] element 91 is not present
+[ 5541.259059] element 92 is not present
+[ 5541.259060] element 93 is not present
+[ 5541.259060] element 94 is not present
+[ 5541.259061] element 95 is not present
+[ 5541.259062] element 96 is not present
+[ 5541.259062] element 97 is not present
+[ 5541.259063] element 98 is not present
+[ 5541.259064] element 99 is not present
+[ 5541.259065] search and delete of tree complete value returned is 0
+[ 5541.259065] The tree has key=-100
+[ 5541.259066] The tree has key=-52
+[ 5541.259067] The tree has key=-42
+[ 5541.259067] The tree has key=-21
+[ 5541.259068] The tree has key=-8
+[ 5541.259069] The tree has key=-2
+[ 5541.259070] The tree has key=21
+[ 5541.259070] The tree has key=26
+[ 5541.259071] The tree has key=102
+[ 5541.259072] The tree has key=123
+[ 5541.259073] print once more the tree complete value returned is 0
+[ 5541.259074] RB Tree is destoyed and value returned is 0
+[ 5541.259087] id is alloc and value returned is 0
+[ 5541.259088] id: 1 has the value:60 
+[ 5541.259089] id: 2 has the value:-76 
+[ 5541.259089] id: 3 has the value:-31 
+[ 5541.259090] id: 4 has the value:4 
+[ 5541.259091] id: 5 has the value:112 
+[ 5541.259092] id: 6 has the value:-93 
+[ 5541.259092] id: 7 has the value:-42 
+[ 5541.259093] id: 8 has the value:51 
+[ 5541.259094] id: 9 has the value:-50 
+[ 5541.259095] id: 10 has the value:-116 
+[ 5541.259097] map is printed and value returned is 0
+[ 5541.259100] map is deletd and value returned is 0
+[ 5541.259101] The value returned for common func is 0 
+[ 5541.259102] The value returned from dedicated func is 0, 0 and 0 
+[ 5542.597663] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5555.577918] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5561.033656] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5563.541591] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5580.715860] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5589.100949] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5624.484704] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5640.441907] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5643.260035] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5664.330577] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5674.682043] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5707.685511] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5724.461157] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5728.048480] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5732.908976] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5762.391505] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5769.577206] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5773.462250] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5777.589529] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5823.609066] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5856.378189] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5863.820509] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5868.591600] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5875.625648] The value entered in linked list is 1543105494 
+[ 5875.625650] The value entered in linked list is -2126183724 
+[ 5875.625651] The value entered in linked list is -1520781296 
+[ 5875.625652] The value entered in linked list is -1702422802 
+[ 5875.625653] The value entered in linked list is 1401127828 
+[ 5875.625654] The value entered in linked list is -822728350 
+[ 5875.625655] The value entered in linked list is -750679981 
+[ 5875.625656] The value entered in linked list is -1701531582 
+[ 5875.625656] The value entered in linked list is -1181399841 
+[ 5875.625657] The value entered in linked list is -1670899296 
+[ 5875.625658] 
+[ 5875.625658]  1 
+[ 5875.625659] perfomed functions of linked list with common function successfully with return value 0
+[ 5875.625671] The value inserted in dedicated linked list is 370420672 
+[ 5875.625672] The value inserted in dedicated linked list is -1665360459 
+[ 5875.625673] The value inserted in dedicated linked list is 1018182808 
+[ 5875.625674] The value inserted in dedicated linked list is 167062206 
+[ 5875.625674] The value inserted in dedicated linked list is -1580414768 
+[ 5875.625675] The value inserted in dedicated linked list is -35371696 
+[ 5875.625676] The value inserted in dedicated linked list is -1469339919 
+[ 5875.625677] The value inserted in dedicated linked list is -795727869 
+[ 5875.625678] The value inserted in dedicated linked list is 617591940 
+[ 5875.625678] The value inserted in dedicated linked list is -1619831352 
+[ 5875.625680] 
+[ 5875.625680]  1 
+[ 5875.625681] The linked list operation of create, print and delete are exclusively and successfully performed with value returned as 0, 0 and 0
+[ 5875.625682] fifo test has started
+[ 5875.625683] fifo initialized
+[ 5875.625685] enqueued the value of 32
+[ 5875.625687] enqueued the value of 80
+[ 5875.625689] enqueued the value of 117
+[ 5875.625691] enqueued the value of -100
+[ 5875.625692] enqueued the value of 36
+[ 5875.625694] enqueued the value of 67
+[ 5875.625696] enqueued the value of 70
+[ 5875.625698] enqueued the value of -120
+[ 5875.625700] enqueued the value of 27
+[ 5875.625702] enqueued the value of 56
+[ 5875.625703] the value is 32 dequed
+[ 5875.625703] the value is 80 dequed
+[ 5875.625704] the value is 117 dequed
+[ 5875.625705] the value is -100 dequed
+[ 5875.625706] the value is 36 dequed
+[ 5875.625706] the value is 67 dequed
+[ 5875.625707] the value is 70 dequed
+[ 5875.625708] the value is -120 dequed
+[ 5875.625708] dequeue over
+[ 5875.625709] Queue operations performed successfully with return value of 0
+[ 5875.625721] insertion in tree complete value returned 0
+[ 5875.625722] The tree has key=-120
+[ 5875.625723] The tree has key=-60
+[ 5875.625724] The tree has key=-53
+[ 5875.625724] The tree has key=-23
+[ 5875.625725] The tree has key=12
+[ 5875.625726] The tree has key=44
+[ 5875.625726] The tree has key=64
+[ 5875.625727] The tree has key=68
+[ 5875.625728] The tree has key=70
+[ 5875.625729] The tree has key=107
+[ 5875.625729] printing of tree complete value returned 0
+[ 5875.625730] element 0 is not present
+[ 5875.625731] element 1 is not present
+[ 5875.625732] element 2 is not present
+[ 5875.625732] element 3 is not present
+[ 5875.625733] element 4 is not present
+[ 5875.625734] element 5 is not present
+[ 5875.625734] element 6 is not present
+[ 5875.625735] element 7 is not present
+[ 5875.625736] element 8 is not present
+[ 5875.625737] element 9 is not present
+[ 5875.625737] element 10 is not present
+[ 5875.625738] element 11 is not present
+[ 5875.625739] element 12 is not present
+[ 5875.625739] element 13 is not present
+[ 5875.625740] element 14 is not present
+[ 5875.625741] element 15 is not present
+[ 5875.625741] element 16 is not present
+[ 5875.625742] element 17 is not present
+[ 5875.625743] element 18 is not present
+[ 5875.625744] element 19 is not present
+[ 5875.625744] element 20 is not present
+[ 5875.625745] element 21 is not present
+[ 5875.625746] element 22 is not present
+[ 5875.625746] element 23 is not present
+[ 5875.625747] element 24 is not present
+[ 5875.625748] element 25 is not present
+[ 5875.625748] element 26 is not present
+[ 5875.625749] element 27 is not present
+[ 5875.625750] element 28 is not present
+[ 5875.625750] element 29 is not present
+[ 5875.625751] element 30 is not present
+[ 5875.625752] element 31 is not present
+[ 5875.625752] element 32 is not present
+[ 5875.625753] element 33 is not present
+[ 5875.625754] element 34 is not present
+[ 5875.625755] element 35 is not present
+[ 5875.625755] element 36 is not present
+[ 5875.625756] element 37 is not present
+[ 5875.625757] element 38 is not present
+[ 5875.625757] element 39 is not present
+[ 5875.625758] element 40 is not present
+[ 5875.625759] element 41 is not present
+[ 5875.625759] element 42 is not present
+[ 5875.625760] element 43 is not present
+[ 5875.625761] element 44 is not present
+[ 5875.625761] element 45 is not present
+[ 5875.625762] element 46 is not present
+[ 5875.625763] element 47 is not present
+[ 5875.625763] element 48 is not present
+[ 5875.625764] element 49 is not present
+[ 5875.625765] element 50 is not present
+[ 5875.625766] element 51 is not present
+[ 5875.625766] element 52 is not present
+[ 5875.625767] element 53 is not present
+[ 5875.625768] element 54 is not present
+[ 5875.625768] element 55 is not present
+[ 5875.625769] element 56 is not present
+[ 5875.625770] element 57 is not present
+[ 5875.625770] element 58 is not present
+[ 5875.625771] element 59 is not present
+[ 5875.625772] element 60 is not present
+[ 5875.625772] element 61 is not present
+[ 5875.625773] element 62 is not present
+[ 5875.625774] element 63 is not present
+[ 5875.625774] element 64 is not present
+[ 5875.625775] element 65 is not present
+[ 5875.625776] element 66 is not present
+[ 5875.625776] element 67 is not present
+[ 5875.625777] element 68 is not present
+[ 5875.625778] element 69 is not present
+[ 5875.625778] element 70 is not present
+[ 5875.625779] element 71 is not present
+[ 5875.625780] element 72 is not present
+[ 5875.625781] element 73 is not present
+[ 5875.625781] element 74 is not present
+[ 5875.625782] element 75 is not present
+[ 5875.625783] element 76 is not present
+[ 5875.625783] element 77 is not present
+[ 5875.625784] element 78 is not present
+[ 5875.625785] element 79 is not present
+[ 5875.625785] element 80 is not present
+[ 5875.625786] element 81 is not present
+[ 5875.625787] element 82 is not present
+[ 5875.625787] element 83 is not present
+[ 5875.625788] element 84 is not present
+[ 5875.625789] element 85 is not present
+[ 5875.625789] element 86 is not present
+[ 5875.625790] element 87 is not present
+[ 5875.625791] element 88 is not present
+[ 5875.625791] element 89 is not present
+[ 5875.625792] element 90 is not present
+[ 5875.625793] element 91 is not present
+[ 5875.625794] element 92 is not present
+[ 5875.625794] element 93 is not present
+[ 5875.625795] element 94 is not present
+[ 5875.625796] element 95 is not present
+[ 5875.625796] element 96 is not present
+[ 5875.625797] element 97 is not present
+[ 5875.625798] element 98 is not present
+[ 5875.625798] element 99 is not present
+[ 5875.625799] search and delete of tree complete value returned is 0
+[ 5875.625800] The tree has key=-120
+[ 5875.625801] The tree has key=-60
+[ 5875.625801] The tree has key=-53
+[ 5875.625802] The tree has key=-23
+[ 5875.625803] The tree has key=12
+[ 5875.625803] The tree has key=44
+[ 5875.625804] The tree has key=64
+[ 5875.625805] The tree has key=68
+[ 5875.625806] The tree has key=70
+[ 5875.625806] The tree has key=107
+[ 5875.625807] print once more the tree complete value returned is 0
+[ 5875.625808] RB Tree is destoyed and value returned is 0
+[ 5875.625821] id is alloc and value returned is 0
+[ 5875.625822] id: 1 has the value:-32 
+[ 5875.625823] id: 2 has the value:-87 
+[ 5875.625823] id: 3 has the value:105 
+[ 5875.625824] id: 4 has the value:-110 
+[ 5875.625825] id: 5 has the value:-122 
+[ 5875.625826] id: 6 has the value:20 
+[ 5875.625826] id: 7 has the value:-121 
+[ 5875.625827] id: 8 has the value:107 
+[ 5875.625828] id: 9 has the value:-3 
+[ 5875.625829] id: 10 has the value:-47 
+[ 5875.625831] map is printed and value returned is 0
+[ 5875.625834] map is deletd and value returned is 0
+[ 5875.625835] The value returned for common func is 0 
+[ 5875.625836] The value returned from dedicated func is 0, 0 and 0 
+[ 5886.666380] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5893.297969] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5896.460315] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5901.195403] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5914.261437] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5917.737189] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5961.683852] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5973.106384] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5977.530016] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5987.288521] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5990.643350] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 5999.251334] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6023.563106] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6026.798127] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6029.911527] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6031.404809] The value entered in linked list is -51405136 
+[ 6031.404811] The value entered in linked list is 1931311303 
+[ 6031.404812] The value entered in linked list is 1783797409 
+[ 6031.404813] The value entered in linked list is 278981519 
+[ 6031.404814] The value entered in linked list is 1801006925 
+[ 6031.404815] The value entered in linked list is -406130205 
+[ 6031.404816] The value entered in linked list is -445119205 
+[ 6031.404817] The value entered in linked list is 1194732597 
+[ 6031.404817] The value entered in linked list is 336722251 
+[ 6031.404818] The value entered in linked list is -255223 
+[ 6031.404819] 
+[ 6031.404819]  1 
+[ 6031.404821] perfomed functions of linked list with common function successfully with return value 0
+[ 6031.404832] The value inserted in dedicated linked list is -419926313 
+[ 6031.404833] The value inserted in dedicated linked list is 1314683678 
+[ 6031.404834] The value inserted in dedicated linked list is 1495228580 
+[ 6031.404835] The value inserted in dedicated linked list is 1812237148 
+[ 6031.404836] The value inserted in dedicated linked list is 1840531308 
+[ 6031.404837] The value inserted in dedicated linked list is 1230075729 
+[ 6031.404837] The value inserted in dedicated linked list is 22912662 
+[ 6031.404838] The value inserted in dedicated linked list is 971498185 
+[ 6031.404839] The value inserted in dedicated linked list is 1950278467 
+[ 6031.404840] The value inserted in dedicated linked list is -1590798651 
+[ 6031.404841] 
+[ 6031.404841]  1 
+[ 6031.404843] The linked list operation of create, print and delete are exclusively and successfully performed with value returned as 0, 0 and 0
+[ 6031.404844] fifo test has started
+[ 6031.404844] fifo initialized
+[ 6031.404846] enqueued the value of 75
+[ 6031.404848] enqueued the value of 85
+[ 6031.404850] enqueued the value of -114
+[ 6031.404852] enqueued the value of -58
+[ 6031.404854] enqueued the value of 13
+[ 6031.404856] enqueued the value of -64
+[ 6031.404858] enqueued the value of 19
+[ 6031.404860] enqueued the value of 114
+[ 6031.404861] enqueued the value of -108
+[ 6031.404863] enqueued the value of 10
+[ 6031.404864] the value pri is 236850975 dequed
+[ 6031.404865] the value is 75 dequed
+[ 6031.404866] the value pri is 75 dequed
+[ 6031.404867] the value is 85 dequed
+[ 6031.404867] the value pri is 85 dequed
+[ 6031.404868] the value is -114 dequed
+[ 6031.404869] the value pri is -114 dequed
+[ 6031.404870] the value is -58 dequed
+[ 6031.404870] the value pri is -58 dequed
+[ 6031.404871] the value is 13 dequed
+[ 6031.404872] the value pri is 13 dequed
+[ 6031.404872] the value is -64 dequed
+[ 6031.404873] the value pri is -64 dequed
+[ 6031.404874] the value is 19 dequed
+[ 6031.404875] the value pri is 19 dequed
+[ 6031.404875] the value is 114 dequed
+[ 6031.404876] dequeue over
+[ 6031.404877] Queue operations performed successfully with return value of 0
+[ 6031.404889] insertion in tree complete value returned 0
+[ 6031.404890] The tree has key=-86
+[ 6031.404891] The tree has key=-81
+[ 6031.404892] The tree has key=-58
+[ 6031.404892] The tree has key=-42
+[ 6031.404893] The tree has key=-38
+[ 6031.404894] The tree has key=90
+[ 6031.404895] The tree has key=97
+[ 6031.404895] The tree has key=98
+[ 6031.404896] The tree has key=114
+[ 6031.404897] printing of tree complete value returned 0
+[ 6031.404898] element 0 is not present
+[ 6031.404898] element 1 is not present
+[ 6031.404899] element 2 is not present
+[ 6031.404900] element 3 is not present
+[ 6031.404900] element 4 is not present
+[ 6031.404901] element 5 is not present
+[ 6031.404902] element 6 is not present
+[ 6031.404902] element 7 is not present
+[ 6031.404903] element 8 is not present
+[ 6031.404904] element 9 is not present
+[ 6031.404905] element 10 is not present
+[ 6031.404905] element 11 is not present
+[ 6031.404906] element 12 is not present
+[ 6031.404907] element 13 is not present
+[ 6031.404907] element 14 is not present
+[ 6031.404908] element 15 is not present
+[ 6031.404909] element 16 is not present
+[ 6031.404909] element 17 is not present
+[ 6031.404910] element 18 is not present
+[ 6031.404911] element 19 is not present
+[ 6031.404911] element 20 is not present
+[ 6031.404912] element 21 is not present
+[ 6031.404913] element 22 is not present
+[ 6031.404914] element 23 is not present
+[ 6031.404914] element 24 is not present
+[ 6031.404915] element 25 is not present
+[ 6031.404916] element 26 is not present
+[ 6031.404916] element 27 is not present
+[ 6031.404917] element 28 is not present
+[ 6031.404918] element 29 is not present
+[ 6031.404918] element 30 is not present
+[ 6031.404919] element 31 is not present
+[ 6031.404920] element 32 is not present
+[ 6031.404920] element 33 is not present
+[ 6031.404921] element 34 is not present
+[ 6031.404922] element 35 is not present
+[ 6031.404922] element 36 is not present
+[ 6031.404923] element 37 is not present
+[ 6031.404924] element 38 is not present
+[ 6031.404924] element 39 is not present
+[ 6031.404925] element 40 is not present
+[ 6031.404926] element 41 is not present
+[ 6031.404926] element 42 is not present
+[ 6031.404927] element 43 is not present
+[ 6031.404928] element 44 is not present
+[ 6031.404928] element 45 is not present
+[ 6031.404929] element 46 is not present
+[ 6031.404930] element 47 is not present
+[ 6031.404930] element 48 is not present
+[ 6031.404931] element 49 is not present
+[ 6031.404932] element 50 is not present
+[ 6031.404932] element 51 is not present
+[ 6031.404933] element 52 is not present
+[ 6031.404934] element 53 is not present
+[ 6031.404935] element 54 is not present
+[ 6031.404935] element 55 is not present
+[ 6031.404936] element 56 is not present
+[ 6031.404937] element 57 is not present
+[ 6031.404937] element 58 is not present
+[ 6031.404938] element 59 is not present
+[ 6031.404939] element 60 is not present
+[ 6031.404939] element 61 is not present
+[ 6031.404940] element 62 is not present
+[ 6031.404941] element 63 is not present
+[ 6031.404941] element 64 is not present
+[ 6031.404942] element 65 is not present
+[ 6031.404943] element 66 is not present
+[ 6031.404943] element 67 is not present
+[ 6031.404944] element 68 is not present
+[ 6031.404945] element 69 is not present
+[ 6031.404945] element 70 is not present
+[ 6031.404946] element 71 is not present
+[ 6031.404961] element 72 is not present
+[ 6031.404962] element 73 is not present
+[ 6031.404963] element 74 is not present
+[ 6031.404964] element 75 is not present
+[ 6031.404965] element 76 is not present
+[ 6031.404966] element 77 is not present
+[ 6031.404967] element 78 is not present
+[ 6031.404968] element 79 is not present
+[ 6031.404969] element 80 is not present
+[ 6031.404970] element 81 is not present
+[ 6031.404970] element 82 is not present
+[ 6031.404971] element 83 is not present
+[ 6031.404972] element 84 is not present
+[ 6031.404972] element 85 is not present
+[ 6031.404973] element 86 is not present
+[ 6031.404974] element 87 is not present
+[ 6031.404974] element 88 is not present
+[ 6031.404975] element 89 is not present
+[ 6031.404976] element 90 is not present
+[ 6031.404976] element 91 is not present
+[ 6031.404977] element 92 is not present
+[ 6031.404978] element 93 is not present
+[ 6031.404979] element 94 is not present
+[ 6031.404979] element 95 is not present
+[ 6031.404980] element 96 is not present
+[ 6031.404981] element 97 is not present
+[ 6031.404981] element 98 is not present
+[ 6031.404982] element 99 is not present
+[ 6031.404983] search and delete of tree complete value returned is 0
+[ 6031.404984] The tree has key=-86
+[ 6031.404985] The tree has key=-81
+[ 6031.404985] The tree has key=-58
+[ 6031.404986] The tree has key=-42
+[ 6031.404987] The tree has key=-38
+[ 6031.404987] The tree has key=90
+[ 6031.404988] The tree has key=97
+[ 6031.404989] The tree has key=98
+[ 6031.404990] The tree has key=114
+[ 6031.404991] print once more the tree complete value returned is 0
+[ 6031.404992] RB Tree is destoyed and value returned is 0
+[ 6031.405005] id is alloc and value returned is 0
+[ 6031.405006] id: 1 has the value:-118 
+[ 6031.405007] id: 2 has the value:95 
+[ 6031.405007] id: 3 has the value:91 
+[ 6031.405008] id: 4 has the value:-67 
+[ 6031.405009] id: 5 has the value:-117 
+[ 6031.405010] id: 6 has the value:-68 
+[ 6031.405010] id: 7 has the value:-20 
+[ 6031.405011] id: 8 has the value:-104 
+[ 6031.405012] id: 9 has the value:19 
+[ 6031.405013] id: 10 has the value:20 
+[ 6031.405015] map is printed and value returned is 0
+[ 6031.405018] map is deletd and value returned is 0
+[ 6031.405019] The value returned for common func is 0 
+[ 6031.405020] The value returned from dedicated func is 0, 0 and 0 
+[ 6032.852164] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6038.307389] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6041.498551] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6060.708272] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6065.845942] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6070.032997] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6080.876535] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6084.853764] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6087.994095] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6091.081098] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6099.655798] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6112.419021] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6132.307652] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6135.939148] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6143.070515] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6156.344598] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6179.914998] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6183.638907] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6200.070216] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6206.520822] The value entered in linked list is 1402327937 
+[ 6206.520824] The value entered in linked list is 357371765 
+[ 6206.520825] The value entered in linked list is 1460519681 
+[ 6206.520826] The value entered in linked list is -93964719 
+[ 6206.520827] The value entered in linked list is 1956601915 
+[ 6206.520828] The value entered in linked list is 170547091 
+[ 6206.520829] The value entered in linked list is -562357196 
+[ 6206.520829] The value entered in linked list is -1182234258 
+[ 6206.520830] The value entered in linked list is -23417550 
+[ 6206.520831] The value entered in linked list is 319401430 
+[ 6206.520832] 
+[ 6206.520832]  1 
+[ 6206.520834] perfomed functions of linked list with common function successfully with return value 0
+[ 6206.520845] The value inserted in dedicated linked list is 651469389 
+[ 6206.520846] The value inserted in dedicated linked list is 128494254 
+[ 6206.520847] The value inserted in dedicated linked list is 2084234798 
+[ 6206.520848] The value inserted in dedicated linked list is 921729509 
+[ 6206.520848] The value inserted in dedicated linked list is -203815424 
+[ 6206.520849] The value inserted in dedicated linked list is 163457471 
+[ 6206.520850] The value inserted in dedicated linked list is -1018979452 
+[ 6206.520851] The value inserted in dedicated linked list is 2097861220 
+[ 6206.520852] The value inserted in dedicated linked list is 2070278354 
+[ 6206.520853] The value inserted in dedicated linked list is -607365660 
+[ 6206.520854] 
+[ 6206.520854]  1 
+[ 6206.520855] The linked list operation of create, print and delete are exclusively and successfully performed with value returned as 0, 0 and 0
+[ 6206.520856] fifo test has started
+[ 6206.520857] fifo initialized
+[ 6206.520859] enqueued the value of -70
+[ 6206.520861] enqueued the value of 12
+[ 6206.520863] enqueued the value of -14
+[ 6206.520865] enqueued the value of -116
+[ 6206.520867] enqueued the value of 77
+[ 6206.520868] enqueued the value of 40
+[ 6206.520870] enqueued the value of 9
+[ 6206.520872] enqueued the value of 104
+[ 6206.520874] enqueued the value of -53
+[ 6206.520876] enqueued the value of -51
+[ 6206.520877] the value is -70 dequed
+[ 6206.520878] the value is 12 dequed
+[ 6206.520878] the value is -14 dequed
+[ 6206.520879] the value is -116 dequed
+[ 6206.520880] dequeue over
+[ 6206.520881] Queue operations performed successfully with return value of 0
+[ 6206.520893] insertion in tree complete value returned 0
+[ 6206.520894] The tree has key=-105
+[ 6206.520894] The tree has key=-67
+[ 6206.520895] The tree has key=-43
+[ 6206.520896] The tree has key=28
+[ 6206.520896] The tree has key=33
+[ 6206.520897] The tree has key=35
+[ 6206.520898] The tree has key=41
+[ 6206.520899] The tree has key=83
+[ 6206.520899] The tree has key=88
+[ 6206.520900] The tree has key=94
+[ 6206.520901] printing of tree complete value returned 0
+[ 6206.520902] element 0 is not present
+[ 6206.520902] element 1 is not present
+[ 6206.520903] element 2 is not present
+[ 6206.520904] element 3 is not present
+[ 6206.520905] element 4 is not present
+[ 6206.520905] element 5 is not present
+[ 6206.520906] element 6 is not present
+[ 6206.520907] element 7 is not present
+[ 6206.520907] element 8 is not present
+[ 6206.520908] element 9 is not present
+[ 6206.520909] element 10 is not present
+[ 6206.520909] element 11 is not present
+[ 6206.520910] element 12 is not present
+[ 6206.520911] element 13 is not present
+[ 6206.520911] element 14 is not present
+[ 6206.520912] element 15 is not present
+[ 6206.520913] element 16 is not present
+[ 6206.520914] element 17 is not present
+[ 6206.520914] element 18 is not present
+[ 6206.520915] element 19 is not present
+[ 6206.520916] element 20 is not present
+[ 6206.520916] element 21 is not present
+[ 6206.520917] element 22 is not present
+[ 6206.520918] element 23 is not present
+[ 6206.520918] element 24 is not present
+[ 6206.520919] element 25 is not present
+[ 6206.520920] element 26 is not present
+[ 6206.520920] element 27 is not present
+[ 6206.520921] element 28 is not present
+[ 6206.520922] element 29 is not present
+[ 6206.520922] element 30 is not present
+[ 6206.520923] element 31 is not present
+[ 6206.520924] element 32 is not present
+[ 6206.520924] element 33 is not present
+[ 6206.520925] element 34 is not present
+[ 6206.520926] element 35 is present and shall now be deleted
+[ 6206.520927] element 36 is not present
+[ 6206.520927] element 37 is not present
+[ 6206.520928] element 38 is not present
+[ 6206.520929] element 39 is not present
+[ 6206.520930] element 40 is not present
+[ 6206.520930] element 41 is present and shall now be deleted
+[ 6206.520931] element 42 is not present
+[ 6206.520932] element 43 is not present
+[ 6206.520932] element 44 is not present
+[ 6206.520933] element 45 is not present
+[ 6206.520934] element 46 is not present
+[ 6206.520935] element 47 is not present
+[ 6206.520935] element 48 is not present
+[ 6206.520936] element 49 is not present
+[ 6206.520937] element 50 is not present
+[ 6206.520937] element 51 is not present
+[ 6206.520938] element 52 is not present
+[ 6206.520939] element 53 is not present
+[ 6206.520939] element 54 is not present
+[ 6206.520940] element 55 is not present
+[ 6206.520941] element 56 is not present
+[ 6206.520941] element 57 is not present
+[ 6206.520942] element 58 is not present
+[ 6206.520943] element 59 is not present
+[ 6206.520943] element 60 is not present
+[ 6206.520944] element 61 is not present
+[ 6206.520945] element 62 is not present
+[ 6206.520945] element 63 is not present
+[ 6206.520946] element 64 is not present
+[ 6206.520947] element 65 is not present
+[ 6206.520947] element 66 is not present
+[ 6206.520948] element 67 is not present
+[ 6206.520949] element 68 is not present
+[ 6206.520949] element 69 is not present
+[ 6206.520950] element 70 is not present
+[ 6206.520951] element 71 is not present
+[ 6206.520951] element 72 is not present
+[ 6206.520952] element 73 is not present
+[ 6206.520953] element 74 is not present
+[ 6206.520954] element 75 is not present
+[ 6206.520954] element 76 is not present
+[ 6206.520955] element 77 is not present
+[ 6206.520956] element 78 is not present
+[ 6206.520956] element 79 is not present
+[ 6206.520957] element 80 is not present
+[ 6206.520958] element 81 is not present
+[ 6206.520958] element 82 is not present
+[ 6206.520959] element 83 is present and shall now be deleted
+[ 6206.520960] element 84 is not present
+[ 6206.520960] element 85 is not present
+[ 6206.520961] element 86 is not present
+[ 6206.520962] element 87 is not present
+[ 6206.520963] element 88 is present and shall now be deleted
+[ 6206.520963] element 89 is not present
+[ 6206.520964] element 90 is not present
+[ 6206.520965] element 91 is not present
+[ 6206.520965] element 92 is not present
+[ 6206.520966] element 93 is not present
+[ 6206.520967] element 94 is not present
+[ 6206.520967] element 95 is not present
+[ 6206.520968] element 96 is not present
+[ 6206.520969] element 97 is not present
+[ 6206.520970] element 98 is not present
+[ 6206.520970] element 99 is not present
+[ 6206.520971] search and delete of tree complete value returned is 0
+[ 6206.520972] The tree has key=-105
+[ 6206.520973] The tree has key=-67
+[ 6206.520973] The tree has key=-43
+[ 6206.520974] The tree has key=28
+[ 6206.520975] The tree has key=33
+[ 6206.520975] The tree has key=94
+[ 6206.520976] print once more the tree complete value returned is 0
+[ 6206.520977] RB Tree is destoyed and value returned is 0
+[ 6206.520990] id is alloc and value returned is 0
+[ 6206.520991] id: 1 has the value:-55 
+[ 6206.520992] id: 2 has the value:52 
+[ 6206.520992] id: 3 has the value:-56 
+[ 6206.520993] id: 4 has the value:13 
+[ 6206.520994] id: 5 has the value:43 
+[ 6206.520995] id: 6 has the value:-125 
+[ 6206.520995] id: 7 has the value:-32 
+[ 6206.520996] id: 8 has the value:-41 
+[ 6206.520997] id: 9 has the value:-1 
+[ 6206.520998] id: 10 has the value:-79 
+[ 6206.521000] map is printed and value returned is 0
+[ 6206.521003] map is deletd and value returned is 0
+[ 6206.521004] The value returned for common func is 0 
+[ 6206.521005] The value returned from dedicated func is 0, 0 and 0 
+[ 6209.206557] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6248.607917] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6254.604818] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6281.082897] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6285.684102] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6289.223719] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6294.162508] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6298.218309] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6301.700534] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6309.021207] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6311.751897] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6333.963884] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6338.009384] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6367.408698] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6370.542231] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6373.807296] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6394.978206] The value entered in linked list is -1697749120 
+[ 6394.978208] The value entered in linked list is -1591923420 
+[ 6394.978209] The value entered in linked list is -1025934432 
+[ 6394.978210] The value entered in linked list is -1674568198 
+[ 6394.978210] The value entered in linked list is -2142571790 
+[ 6394.978211] The value entered in linked list is 1943789631 
+[ 6394.978212] The value entered in linked list is 73038475 
+[ 6394.978212] The value entered in linked list is 1416292627 
+[ 6394.978213] The value entered in linked list is -1247620625 
+[ 6394.978214] The value entered in linked list is 154543764 
+[ 6394.978214] 
+[ 6394.978214]  1 
+[ 6394.978215] perfomed functions of linked list with common function successfully with return value 0
+[ 6394.978225] The value inserted in dedicated linked list is -405480755 
+[ 6394.978225] The value inserted in dedicated linked list is -647749325 
+[ 6394.978226] The value inserted in dedicated linked list is -383398798 
+[ 6394.978227] The value inserted in dedicated linked list is 1899763702 
+[ 6394.978227] The value inserted in dedicated linked list is -1202731383 
+[ 6394.978228] The value inserted in dedicated linked list is 1202152778 
+[ 6394.978229] The value inserted in dedicated linked list is -191273141 
+[ 6394.978229] The value inserted in dedicated linked list is 1030973936 
+[ 6394.978230] The value inserted in dedicated linked list is -1896090078 
+[ 6394.978230] The value inserted in dedicated linked list is -1330343939 
+[ 6394.978231] 
+[ 6394.978231]  1 
+[ 6394.978232] The linked list operation of create, print and delete are exclusively and successfully performed with value returned as 0, 0 and 0
+[ 6394.978233] fifo test has started
+[ 6394.978234] fifo initialized
+[ 6394.978235] enqueued the value of -48
+[ 6394.978237] enqueued the value of 51
+[ 6394.978239] enqueued the value of -104
+[ 6394.978240] enqueued the value of 0
+[ 6394.978242] enqueued the value of 51
+[ 6394.978243] enqueued the value of 127
+[ 6394.978244] enqueued the value of -23
+[ 6394.978246] enqueued the value of 79
+[ 6394.978247] enqueued the value of 57
+[ 6394.978249] enqueued the value of 94
+[ 6394.978250] the value is -48 dequed
+[ 6394.978250] the value is 51 dequed
+[ 6394.978251] the value is -104 dequed
+[ 6394.978251] the value is 0 dequed
+[ 6394.978252] the value is 51 dequed
+[ 6394.978253] the value is 127 dequed
+[ 6394.978253] the value is -23 dequed
+[ 6394.978254] the value is 79 dequed
+[ 6394.978254] the value is 57 dequed
+[ 6394.978255] the value is 94 dequed
+[ 6394.978255] dequeue over
+[ 6394.978256] Queue operations performed successfully with return value of 0
+[ 6394.978266] insertion in tree complete value returned 0
+[ 6394.978266] The tree has key=-123
+[ 6394.978267] The tree has key=-109
+[ 6394.978268] The tree has key=-91
+[ 6394.978268] The tree has key=-76
+[ 6394.978269] The tree has key=-49
+[ 6394.978269] The tree has key=-33
+[ 6394.978270] The tree has key=17
+[ 6394.978270] The tree has key=36
+[ 6394.978271] The tree has key=80
+[ 6394.978271] The tree has key=114
+[ 6394.978272] printing of tree complete value returned 0
+[ 6394.978273] element 0 is not present
+[ 6394.978273] element 1 is not present
+[ 6394.978274] element 2 is not present
+[ 6394.978274] element 3 is not present
+[ 6394.978275] element 4 is not present
+[ 6394.978275] element 5 is not present
+[ 6394.978276] element 6 is not present
+[ 6394.978276] element 7 is not present
+[ 6394.978277] element 8 is not present
+[ 6394.978278] element 9 is not present
+[ 6394.978278] element 10 is not present
+[ 6394.978279] element 11 is not present
+[ 6394.978279] element 12 is not present
+[ 6394.978280] element 13 is not present
+[ 6394.978280] element 14 is not present
+[ 6394.978281] element 15 is not present
+[ 6394.978281] element 16 is not present
+[ 6394.978282] element 17 is not present
+[ 6394.978282] element 18 is not present
+[ 6394.978283] element 19 is not present
+[ 6394.978283] element 20 is not present
+[ 6394.978284] element 21 is not present
+[ 6394.978285] element 22 is not present
+[ 6394.978285] element 23 is not present
+[ 6394.978286] element 24 is not present
+[ 6394.978286] element 25 is not present
+[ 6394.978287] element 26 is not present
+[ 6394.978287] element 27 is not present
+[ 6394.978288] element 28 is not present
+[ 6394.978288] element 29 is not present
+[ 6394.978289] element 30 is not present
+[ 6394.978289] element 31 is not present
+[ 6394.978290] element 32 is not present
+[ 6394.978290] element 33 is not present
+[ 6394.978291] element 34 is not present
+[ 6394.978291] element 35 is not present
+[ 6394.978292] element 36 is not present
+[ 6394.978292] element 37 is not present
+[ 6394.978293] element 38 is not present
+[ 6394.978293] element 39 is not present
+[ 6394.978294] element 40 is not present
+[ 6394.978295] element 41 is not present
+[ 6394.978295] element 42 is not present
+[ 6394.978296] element 43 is not present
+[ 6394.978296] element 44 is not present
+[ 6394.978297] element 45 is not present
+[ 6394.978297] element 46 is not present
+[ 6394.978298] element 47 is not present
+[ 6394.978298] element 48 is not present
+[ 6394.978299] element 49 is not present
+[ 6394.978299] element 50 is not present
+[ 6394.978300] element 51 is not present
+[ 6394.978300] element 52 is not present
+[ 6394.978301] element 53 is not present
+[ 6394.978301] element 54 is not present
+[ 6394.978302] element 55 is not present
+[ 6394.978303] element 56 is not present
+[ 6394.978303] element 57 is not present
+[ 6394.978304] element 58 is not present
+[ 6394.978304] element 59 is not present
+[ 6394.978305] element 60 is not present
+[ 6394.978305] element 61 is not present
+[ 6394.978306] element 62 is not present
+[ 6394.978306] element 63 is not present
+[ 6394.978307] element 64 is not present
+[ 6394.978307] element 65 is not present
+[ 6394.978308] element 66 is not present
+[ 6394.978308] element 67 is not present
+[ 6394.978309] element 68 is not present
+[ 6394.978309] element 69 is not present
+[ 6394.978310] element 70 is not present
+[ 6394.978310] element 71 is not present
+[ 6394.978311] element 72 is not present
+[ 6394.978312] element 73 is not present
+[ 6394.978312] element 74 is not present
+[ 6394.978313] element 75 is not present
+[ 6394.978313] element 76 is not present
+[ 6394.978314] element 77 is not present
+[ 6394.978314] element 78 is not present
+[ 6394.978315] element 79 is not present
+[ 6394.978315] element 80 is not present
+[ 6394.978316] element 81 is not present
+[ 6394.978316] element 82 is not present
+[ 6394.978317] element 83 is not present
+[ 6394.978317] element 84 is not present
+[ 6394.978318] element 85 is not present
+[ 6394.978318] element 86 is not present
+[ 6394.978319] element 87 is not present
+[ 6394.978319] element 88 is not present
+[ 6394.978320] element 89 is not present
+[ 6394.978321] element 90 is not present
+[ 6394.978321] element 91 is not present
+[ 6394.978322] element 92 is not present
+[ 6394.978322] element 93 is not present
+[ 6394.978323] element 94 is not present
+[ 6394.978323] element 95 is not present
+[ 6394.978324] element 96 is not present
+[ 6394.978324] element 97 is not present
+[ 6394.978325] element 98 is not present
+[ 6394.978325] element 99 is not present
+[ 6394.978326] search and delete of tree complete value returned is 0
+[ 6394.978326] The tree has key=-123
+[ 6394.978327] The tree has key=-109
+[ 6394.978328] The tree has key=-91
+[ 6394.978328] The tree has key=-76
+[ 6394.978329] The tree has key=-49
+[ 6394.978329] The tree has key=-33
+[ 6394.978330] The tree has key=17
+[ 6394.978330] The tree has key=36
+[ 6394.978331] The tree has key=80
+[ 6394.978331] The tree has key=114
+[ 6394.978332] print once more the tree complete value returned is 0
+[ 6394.978333] RB Tree is destoyed and value returned is 0
+[ 6394.978343] id is alloc and value returned is 0
+[ 6394.978344] id: 1 has the value:30 
+[ 6394.978344] id: 2 has the value:71 
+[ 6394.978345] id: 3 has the value:30 
+[ 6394.978345] id: 4 has the value:40 
+[ 6394.978346] id: 5 has the value:-115 
+[ 6394.978347] id: 6 has the value:-35 
+[ 6394.978347] id: 7 has the value:121 
+[ 6394.978348] id: 8 has the value:-19 
+[ 6394.978348] id: 9 has the value:5 
+[ 6394.978349] id: 10 has the value:67 
+[ 6394.978351] map is printed and value returned is 0
+[ 6394.978353] map is deletd and value returned is 0
+[ 6394.978354] The value returned for common func is 0 
+[ 6394.978355] The value returned from dedicated func is 0, 0 and 0 
+[ 6399.415062] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6411.378636] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6433.951743] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6437.312093] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6441.292527] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6444.399217] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6447.513578] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6465.250308] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6493.174656] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6507.131698] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6510.196523] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6583.882517] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6586.994270] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6611.156577] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6630.387374] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6635.158310] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6652.926163] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6662.427269] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6722.498875] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6749.235496] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6763.212329] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6767.241655] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6771.389077] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6796.701437] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6823.089390] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6836.087204] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6840.150415] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6854.205280] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6859.195946] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6870.018882] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6874.402713] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6893.328031] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6896.823592] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6900.009378] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6903.321371] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6918.282248] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6932.436861] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6935.825550] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6969.189331] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 6990.008062] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7046.689253] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7090.700810] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7097.524346] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7128.622268] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7181.518865] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7205.473551] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7224.746384] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7235.645545] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7241.420627] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7256.404264] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7260.088281] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7277.555042] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7280.458150] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7286.236899] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7310.166293] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7372.762663] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7378.828896] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7381.993181] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7391.919835] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7401.934587] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7406.715148] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7410.860144] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7464.222309] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7467.148389] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7487.779308] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7491.258538] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7511.228142] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7515.329567] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7520.374224] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7523.754643] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7535.635398] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7539.371389] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7546.302808] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7556.049506] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7593.910347] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7601.205583] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7613.647740] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7621.031745] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7626.957583] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7636.192401] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7640.377085] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7649.041940] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7664.783383] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7671.430413] IPv6: eth0: IPv6 duplicate address 2607:b400:b4:1a00:20c:29ff:feaf:8a7e detected!
+[ 7678.317829] The value entered in linked list is 1078875694 
+[ 7678.317831] The value entered in linked list is 2123845480 
+[ 7678.317832] The value entered in linked list is 1970543479 
+[ 7678.317833] The value entered in linked list is 261288828 
+[ 7678.317833] The value entered in linked list is -978655997 
+[ 7678.317834] The value entered in linked list is -63878688 
+[ 7678.317835] The value entered in linked list is 1469218645 
+[ 7678.317836] The value entered in linked list is -1451970198 
+[ 7678.317837] The value entered in linked list is -920290795 
+[ 7678.317838] The value entered in linked list is -293687718 
+[ 7678.317839] 
+[ 7678.317839]  1 
+[ 7678.317840] perfomed functions of linked list with common function successfully with return value 0
+[ 7678.317852] The value inserted in dedicated linked list is -828269343 
+[ 7678.317852] The value inserted in dedicated linked list is -1162007713 
+[ 7678.317853] The value inserted in dedicated linked list is 1224156361 
+[ 7678.317854] The value inserted in dedicated linked list is -656436969 
+[ 7678.317855] The value inserted in dedicated linked list is 38343479 
+[ 7678.317856] The value inserted in dedicated linked list is -363491147 
+[ 7678.317856] The value inserted in dedicated linked list is -1022757089 
+[ 7678.317857] The value inserted in dedicated linked list is 2016577592 
+[ 7678.317858] The value inserted in dedicated linked list is 623667173 
+[ 7678.317859] The value inserted in dedicated linked list is -1868945187 
+[ 7678.317860] 
+[ 7678.317860]  1 
+[ 7678.317861] The linked list operation of create, print and delete are exclusively and successfully performed with value returned as 0, 0 and 0
+[ 7678.317863] fifo test has started
+[ 7678.317863] fifo initialized
+[ 7678.317865] enqueued the value of -104
+[ 7678.317867] enqueued the value of 99
+[ 7678.317869] enqueued the value of 65
+[ 7678.317871] enqueued the value of 32
+[ 7678.317873] enqueued the value of 73
+[ 7678.317875] enqueued the value of 27
+[ 7678.317876] enqueued the value of -21
+[ 7678.317878] enqueued the value of 50
+[ 7678.317880] enqueued the value of -43
+[ 7678.317882] enqueued the value of 119
+[ 7678.317883] the value is -104 dequed
+[ 7678.317884] the value is 99 dequed
+[ 7678.317885] the value is 65 dequed
+[ 7678.317885] the value is 32 dequed
+[ 7678.317886] the value is 73 dequed
+[ 7678.317887] the value is 27 dequed
+[ 7678.317888] the value is -21 dequed
+[ 7678.317888] the value is 50 dequed
+[ 7678.317889] the value is -43 dequed
+[ 7678.317890] the value is 119 dequed
+[ 7678.317890] dequeue over
+[ 7678.317891] Queue operations performed successfully with return value of 0
+[ 7678.317994] insertion in tree complete value returned 0
+[ 7678.317995] The tree has key=-128
+[ 7678.317995] The tree has key=-119
+[ 7678.317996] The tree has key=-117
+[ 7678.317997] The tree has key=-115
+[ 7678.317998] The tree has key=-114
+[ 7678.317998] The tree has key=-113
+[ 7678.317999] The tree has key=-110
+[ 7678.318000] The tree has key=-109
+[ 7678.318000] The tree has key=-107
+[ 7678.318001] The tree has key=-103
+[ 7678.318002] The tree has key=-101
+[ 7678.318002] The tree has key=-91
+[ 7678.318003] The tree has key=-81
+[ 7678.318004] The tree has key=-79
+[ 7678.318005] The tree has key=-77
+[ 7678.318005] The tree has key=-76
+[ 7678.318006] The tree has key=-73
+[ 7678.318007] The tree has key=-70
+[ 7678.318007] The tree has key=-69
+[ 7678.318008] The tree has key=-65
+[ 7678.318009] The tree has key=-64
+[ 7678.318009] The tree has key=-61
+[ 7678.318010] The tree has key=-56
+[ 7678.318011] The tree has key=-55
+[ 7678.318011] The tree has key=-52
+[ 7678.318012] The tree has key=-51
+[ 7678.318013] The tree has key=-47
+[ 7678.318014] The tree has key=-41
+[ 7678.318014] The tree has key=-28
+[ 7678.318015] The tree has key=-26
+[ 7678.318016] The tree has key=-20
+[ 7678.318016] The tree has key=-17
+[ 7678.318017] The tree has key=-9
+[ 7678.318018] The tree has key=-4
+[ 7678.318018] The tree has key=-1
+[ 7678.318019] The tree has key=1
+[ 7678.318020] The tree has key=2
+[ 7678.318020] The tree has key=7
+[ 7678.318021] The tree has key=16
+[ 7678.318022] The tree has key=20
+[ 7678.318023] The tree has key=22
+[ 7678.318023] The tree has key=23
+[ 7678.318024] The tree has key=33
+[ 7678.318025] The tree has key=37
+[ 7678.318025] The tree has key=38
+[ 7678.318026] The tree has key=39
+[ 7678.318027] The tree has key=40
+[ 7678.318027] The tree has key=43
+[ 7678.318028] The tree has key=50
+[ 7678.318029] The tree has key=51
+[ 7678.318029] The tree has key=65
+[ 7678.318030] The tree has key=68
+[ 7678.318031] The tree has key=71
+[ 7678.318031] The tree has key=75
+[ 7678.318032] The tree has key=77
+[ 7678.318033] The tree has key=78
+[ 7678.318034] The tree has key=79
+[ 7678.318034] The tree has key=80
+[ 7678.318035] The tree has key=82
+[ 7678.318036] The tree has key=84
+[ 7678.318036] The tree has key=86
+[ 7678.318037] The tree has key=90
+[ 7678.318038] The tree has key=91
+[ 7678.318038] The tree has key=92
+[ 7678.318039] The tree has key=93
+[ 7678.318040] The tree has key=94
+[ 7678.318040] The tree has key=98
+[ 7678.318041] The tree has key=103
+[ 7678.318042] The tree has key=104
+[ 7678.318043] The tree has key=105
+[ 7678.318043] The tree has key=111
+[ 7678.318044] The tree has key=117
+[ 7678.318045] The tree has key=118
+[ 7678.318045] The tree has key=120
+[ 7678.318046] The tree has key=121
+[ 7678.318047] The tree has key=122
+[ 7678.318047] The tree has key=123
+[ 7678.318048] The tree has key=126
+[ 7678.318049] printing of tree complete value returned 0
+[ 7678.318050] element 0 is not present
+[ 7678.318051] element 1 is not present
+[ 7678.318051] element 2 is not present
+[ 7678.318052] element 3 is not present
+[ 7678.318053] element 4 is not present
+[ 7678.318053] element 5 is not present
+[ 7678.318054] element 6 is not present
+[ 7678.318055] element 7 is not present
+[ 7678.318055] element 8 is not present
+[ 7678.318056] element 9 is not present
+[ 7678.318057] element 10 is not present
+[ 7678.318058] element 11 is not present
+[ 7678.318058] element 12 is not present
+[ 7678.318059] element 13 is not present
+[ 7678.318060] element 14 is not present
+[ 7678.318060] element 15 is not present
+[ 7678.318061] element 16 is not present
+[ 7678.318062] element 17 is not present
+[ 7678.318062] element 18 is not present
+[ 7678.318063] element 19 is not present
+[ 7678.318064] element 20 is present and shall now be deleted
+[ 7678.318065] element 21 is not present
+[ 7678.318066] element 22 is present and shall now be deleted
+[ 7678.318067] element 23 is present and shall now be deleted
+[ 7678.318067] element 24 is not present
+[ 7678.318068] element 25 is not present
+[ 7678.318069] element 26 is not present
+[ 7678.318069] element 27 is not present
+[ 7678.318070] element 28 is not present
+[ 7678.318071] element 29 is not present
+[ 7678.318072] element 30 is not present
+[ 7678.318072] element 31 is not present
+[ 7678.318073] element 32 is not present
+[ 7678.318074] element 33 is present and shall now be deleted
+[ 7678.318075] element 34 is not present
+[ 7678.318075] element 35 is not present
+[ 7678.318076] element 36 is not present
+[ 7678.318077] element 37 is present and shall now be deleted
+[ 7678.318078] element 38 is present and shall now be deleted
+[ 7678.318078] element 39 is present and shall now be deleted
+[ 7678.318079] element 40 is present and shall now be deleted
+[ 7678.318080] element 41 is not present
+[ 7678.318081] element 42 is not present
+[ 7678.318082] element 43 is present and shall now be deleted
+[ 7678.318082] element 44 is not present
+[ 7678.318083] element 45 is not present
+[ 7678.318084] element 46 is not present
+[ 7678.318084] element 47 is not present
+[ 7678.318085] element 48 is not present
+[ 7678.318086] element 49 is not present
+[ 7678.318086] element 50 is present and shall now be deleted
+[ 7678.318087] element 51 is present and shall now be deleted
+[ 7678.318088] element 52 is not present
+[ 7678.318089] element 53 is not present
+[ 7678.318090] element 54 is not present
+[ 7678.318090] element 55 is not present
+[ 7678.318091] element 56 is not present
+[ 7678.318092] element 57 is not present
+[ 7678.318092] element 58 is not present
+[ 7678.318093] element 59 is not present
+[ 7678.318094] element 60 is not present
+[ 7678.318094] element 61 is not present
+[ 7678.318095] element 62 is not present
+[ 7678.318096] element 63 is not present
+[ 7678.318097] element 64 is not present
+[ 7678.318097] element 65 is present and shall now be deleted
+[ 7678.318098] element 66 is not present
+[ 7678.318099] element 67 is not present
+[ 7678.318100] element 68 is present and shall now be deleted
+[ 7678.318100] element 69 is not present
+[ 7678.318101] element 70 is not present
+[ 7678.318102] element 71 is present and shall now be deleted
+[ 7678.318103] element 72 is not present
+[ 7678.318103] element 73 is not present
+[ 7678.318104] element 74 is not present
+[ 7678.318105] element 75 is present and shall now be deleted
+[ 7678.318106] element 76 is not present
+[ 7678.318106] element 77 is present and shall now be deleted
+[ 7678.318107] element 78 is present and shall now be deleted
+[ 7678.318108] element 79 is present and shall now be deleted
+[ 7678.318109] element 80 is present and shall now be deleted
+[ 7678.318110] element 81 is not present
+[ 7678.318110] element 82 is present and shall now be deleted
+[ 7678.318111] element 83 is not present
+[ 7678.318112] element 84 is present and shall now be deleted
+[ 7678.318113] element 85 is not present
+[ 7678.318114] element 86 is present and shall now be deleted
+[ 7678.318114] element 87 is not present
+[ 7678.318115] element 88 is not present
+[ 7678.318116] element 89 is not present
+[ 7678.318116] element 90 is present and shall now be deleted
+[ 7678.318117] element 91 is present and shall now be deleted
+[ 7678.318118] element 92 is present and shall now be deleted
+[ 7678.318119] element 93 is present and shall now be deleted
+[ 7678.318120] element 94 is present and shall now be deleted
+[ 7678.318121] element 95 is not present
+[ 7678.318121] element 96 is not present
+[ 7678.318122] element 97 is not present
+[ 7678.318123] element 98 is present and shall now be deleted
+[ 7678.318124] element 99 is not present
+[ 7678.318124] search and delete of tree complete value returned is 0
+[ 7678.318125] The tree has key=-128
+[ 7678.318126] The tree has key=-119
+[ 7678.318127] The tree has key=-117
+[ 7678.318127] The tree has key=-115
+[ 7678.318128] The tree has key=-114
+[ 7678.318129] The tree has key=-113
+[ 7678.318129] The tree has key=-110
+[ 7678.318130] The tree has key=-109
+[ 7678.318131] The tree has key=-107
+[ 7678.318132] The tree has key=-103
+[ 7678.318132] The tree has key=-101
+[ 7678.318133] The tree has key=-91
+[ 7678.318134] The tree has key=-81
+[ 7678.318134] The tree has key=-79
+[ 7678.318135] The tree has key=-77
+[ 7678.318136] The tree has key=-76
+[ 7678.318137] The tree has key=-73
+[ 7678.318137] The tree has key=-70
+[ 7678.318138] The tree has key=-69
+[ 7678.318139] The tree has key=-65
+[ 7678.318139] The tree has key=-64
+[ 7678.318140] The tree has key=-61
+[ 7678.318141] The tree has key=-56
+[ 7678.318142] The tree has key=-55
+[ 7678.318142] The tree has key=-52
+[ 7678.318143] The tree has key=-51
+[ 7678.318144] The tree has key=-47
+[ 7678.318144] The tree has key=-41
+[ 7678.318145] The tree has key=-28
+[ 7678.318146] The tree has key=-26
+[ 7678.318146] The tree has key=-20
+[ 7678.318147] The tree has key=-17
+[ 7678.318148] The tree has key=-9
+[ 7678.318148] The tree has key=-4
+[ 7678.318149] The tree has key=-1
+[ 7678.318150] The tree has key=1
+[ 7678.318151] The tree has key=2
+[ 7678.318151] The tree has key=7
+[ 7678.318152] The tree has key=16
+[ 7678.318153] The tree has key=103
+[ 7678.318153] The tree has key=104
+[ 7678.318154] The tree has key=105
+[ 7678.318155] The tree has key=111
+[ 7678.318155] The tree has key=117
+[ 7678.318156] The tree has key=118
+[ 7678.318157] The tree has key=120
+[ 7678.318157] The tree has key=121
+[ 7678.318158] The tree has key=122
+[ 7678.318159] The tree has key=123
+[ 7678.318160] The tree has key=126
+[ 7678.318160] print once more the tree complete value returned is 0
+[ 7678.318164] RB Tree is destoyed and value returned is 0
+[ 7678.318176] id is alloc and value returned is 0
+[ 7678.318177] id: 1 has the value:-94 
+[ 7678.318178] id: 2 has the value:-16 
+[ 7678.318179] id: 3 has the value:76 
+[ 7678.318179] id: 4 has the value:98 
+[ 7678.318180] id: 5 has the value:54 
+[ 7678.318181] id: 6 has the value:-10 
+[ 7678.318182] id: 7 has the value:48 
+[ 7678.318182] id: 8 has the value:-65 
+[ 7678.318183] id: 9 has the value:-95 
+[ 7678.318184] id: 10 has the value:54 
+[ 7678.318187] map is printed and value returned is 0
+[ 7678.318190] map is deletd and value returned is 0
+[ 7678.318191] The value returned for common func is 0 
+[ 7678.318192] The value returned from dedicated func is 0, 0 and 0 
